@@ -1,4 +1,4 @@
-# My iPad Notes
+# My Notes
 
 ![Note 1](../images/Untitled%20Notebook-01.jpg)
 
