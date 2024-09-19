@@ -1,0 +1,1001 @@
+id,age,gender,signup_date,total_orders,average_order_value,total_spent,frequency_of_purchases,last_purchase_date,product_categories,website_visits,email_open_rate ,social_media_engagement,customer_support_interactions,returns_refunds,payment_method,device_type,loyalty_program_status
+1,57,Female,15/02/2021,90,100,,130,07/07/2024,Sports & Outdoors,244,47.79,46,2,2,jcb,Desktop,Platinum
+2,83,Male,29/03/2020,97,487,,302,28/04/2024,Health,157,51.1,18,1,2,jcb,Mobile,Platinum
+3,88,Male,30/03/2021,97,499,,112,24/02/2024,Health,793,27.75,1,14,4,diners-club-carte-blanche,Mobile,Platinum
+4,78,Male,22/05/2018,50,106,,228,20/04/2024,Pets,479,47.53,56,5,8,americanexpress,Desktop,Platinum
+5,23,Female,08/05/2020,97,470,,334,05/09/2024,Pets,428,53.04,45,0,3,diners-club-enroute,Desktop,Bronze
+6,25,Male,11/04/2019,87,45,,251,17/01/2024,Books,737,16.33,9,19,7,jcb,Mobile,Gold
+7,31,Female,01/11/2021,33,438,,299,15/08/2024,Automotive,122,3.03,51,13,9,bankcard,Mobile,Gold
+8,94,Female,12/03/2018,97,341,,343,29/12/2023,Toys,132,88.2,33,20,1,jcb,Desktop,Silver
+9,55,Male,14/02/2021,5,116,,39,14/10/2023,Sports & Outdoors,1008,66.37,31,9,0,jcb,Mobile,Gold
+10,56,Female,05/10/2020,84,107,,162,02/07/2024,Books,319,24.87,24,5,5,maestro,Mobile,Platinum
+11,35,Male,28/08/2019,28,47,,176,04/02/2024,Clothing,500,72.11,82,9,8,jcb,Mobile,Gold
+12,34,Female,23/11/2023,90,484,,156,02/01/2024,Electronics,809,34.61,96,7,8,jcb,Mobile,Platinum
+13,61,Male,29/08/2022,1,126,,314,05/07/2024,Sports & Outdoors,588,60.12,55,3,1,jcb,Desktop,Bronze
+14,27,Female,27/04/2022,79,145,,1,10/12/2023,Automotive,253,41.42,34,2,4,mastercard,Desktop,Bronze
+15,81,Female,16/12/2022,71,338,,12,05/09/2024,Pets,798,88.32,30,4,10,diners-club-international,Mobile,Bronze
+16,23,Male,02/07/2021,100,26,,343,19/12/2023,Pets,769,24.7,66,5,5,diners-club-international,Mobile,Bronze
+17,51,Male,28/06/2020,38,213,,329,12/11/2023,Clothing,167,48.47,46,14,1,instapayment,Mobile,Platinum
+18,49,Male,28/10/2020,45,477,,332,09/11/2023,Electronics,545,64.3,87,17,1,diners-club-carte-blanche,Mobile,Silver
+19,86,Male,24/11/2018,85,244,,59,18/03/2024,Health,626,11.5,79,18,0,jcb,Mobile,Silver
+20,70,Male,03/08/2023,88,460,,121,13/03/2024,Toys,1007,22.96,0,13,4,jcb,Desktop,Platinum
+21,56,Male,08/07/2018,75,374,,100,14/12/2023,Electronics,826,25.44,22,10,1,switch,Desktop,Platinum
+22,92,Female,07/06/2020,14,107,,73,26/04/2024,Beauty,373,18.94,73,17,9,jcb,Mobile,Bronze
+23,32,Female,09/04/2018,36,375,,353,31/05/2024,Toys,737,82.79,26,2,8,china-unionpay,Mobile,Platinum
+24,63,Female,07/01/2023,22,202,,138,13/06/2024,Books,840,8.4,97,8,2,switch,Desktop,Platinum
+25,62,Female,13/01/2020,50,307,,13,29/06/2024,Electronics,314,40.47,97,20,1,switch,Mobile,Gold
+26,37,Male,22/09/2020,43,91,,82,25/11/2023,Books,808,2.93,75,13,7,visa,Mobile,Bronze
+27,54,Female,12/08/2021,20,41,,84,24/09/2023,Electronics,647,22.28,59,14,2,maestro,Mobile,Bronze
+28,89,Male,01/04/2024,39,427,,113,29/09/2023,Beauty,775,27.01,26,7,4,jcb,Mobile,Silver
+29,78,Male,14/04/2020,20,246,,235,17/11/2023,Health,590,8.55,75,8,7,americanexpress,Desktop,Gold
+30,28,Male,23/07/2022,85,444,,135,16/11/2023,Pets,476,10.94,25,10,10,diners-club-carte-blanche,Mobile,Silver
+31,48,Female,05/04/2022,10,236,,299,19/05/2024,Sports & Outdoors,975,61.39,81,0,4,jcb,Mobile,Platinum
+32,50,Female,08/06/2019,94,21,,27,01/09/2024,Toys,822,82.57,33,13,5,jcb,Mobile,Platinum
+33,47,Female,29/08/2021,54,164,,324,02/01/2024,Health,572,58.65,84,11,10,jcb,Desktop,Bronze
+34,43,Male,11/08/2022,43,40,,235,13/05/2024,Clothing,495,60.14,42,4,1,americanexpress,Desktop,Gold
+35,24,Male,09/10/2021,71,168,,55,05/06/2024,Clothing,874,56.59,3,6,4,instapayment,Desktop,Platinum
+36,73,Male,13/10/2018,64,351,,3,04/04/2024,Electronics,318,59.08,76,9,10,mastercard,Mobile,Bronze
+37,19,Male,20/10/2020,63,473,,345,09/04/2024,Books,609,69.91,51,15,5,china-unionpay,Mobile,Gold
+38,65,Male,12/10/2018,72,175,,174,29/06/2024,Automotive,124,57.87,60,15,7,visa-electron,Mobile,Gold
+39,36,Female,12/05/2020,47,473,,114,01/06/2024,Home & Kitchen,906,59.42,0,11,3,jcb,Desktop,Platinum
+40,40,Male,18/04/2018,67,208,,163,05/11/2023,Home & Kitchen,932,2.01,18,10,0,visa-electron,Desktop,Platinum
+41,55,Female,06/06/2018,1,390,,346,02/06/2024,Electronics,40,38.85,20,7,10,diners-club-carte-blanche,Mobile,Bronze
+42,42,Male,05/04/2024,39,494,,94,09/05/2024,Pets,880,82.28,2,8,8,jcb,Mobile,Silver
+43,95,Male,02/04/2020,76,111,,309,02/04/2024,Clothing,441,1.28,79,18,6,instapayment,Mobile,Gold
+44,78,Female,17/09/2020,75,91,,194,05/10/2023,Toys,263,53.36,27,2,0,diners-club-enroute,Desktop,Silver
+45,65,Female,17/06/2022,94,320,,112,01/02/2024,Books,586,71.62,25,18,8,instapayment,Mobile,Bronze
+46,36,Male,15/12/2020,77,334,,316,21/05/2024,Clothing,590,67.51,43,18,6,jcb,Desktop,Silver
+47,20,Female,05/03/2021,73,252,,283,19/10/2023,Beauty,556,73.07,38,16,5,americanexpress,Desktop,Platinum
+48,35,Female,14/05/2019,57,214,,55,04/09/2024,Books,236,70.54,33,8,8,americanexpress,Desktop,Gold
+49,38,Male,13/05/2023,91,74,,324,13/09/2024,Sports & Outdoors,566,60.15,42,13,5,visa-electron,Mobile,Silver
+50,82,Male,16/11/2021,90,302,,38,31/07/2024,Books,572,86.54,36,7,10,americanexpress,Desktop,Gold
+51,95,Male,29/11/2020,23,394,,336,23/12/2023,Home & Kitchen,945,36.62,38,20,6,americanexpress,Desktop,Gold
+52,74,Male,11/07/2023,54,62,,358,21/04/2024,Toys,6,12.01,28,10,1,mastercard,Desktop,Gold
+53,25,Female,19/06/2018,80,296,,213,12/07/2024,Pets,711,40.96,27,13,3,jcb,Desktop,Silver
+54,45,Male,28/08/2022,93,383,,31,03/02/2024,Beauty,765,6.76,73,7,9,jcb,Desktop,Silver
+55,64,Female,19/04/2020,30,88,,117,27/04/2024,Pets,759,85.68,57,2,8,visa,Desktop,Gold
+56,24,Female,01/09/2021,27,336,,345,24/08/2024,Home & Kitchen,849,73.77,23,12,6,jcb,Desktop,Bronze
+57,26,Female,05/01/2020,83,337,,134,28/10/2023,Clothing,290,39.45,77,5,4,jcb,Desktop,Gold
+58,48,Female,18/03/2020,99,287,,159,17/12/2023,Sports & Outdoors,630,98.74,18,3,10,diners-club-enroute,Desktop,Platinum
+59,82,Male,09/09/2021,32,308,,227,23/03/2024,Automotive,131,97.0,91,6,6,mastercard,Desktop,Gold
+60,56,Male,22/02/2023,79,67,,267,29/06/2024,Clothing,148,59.06,88,12,7,instapayment,Mobile,Bronze
+61,41,Male,24/03/2018,54,185,,108,29/12/2023,Health,677,12.94,16,0,3,jcb,Desktop,Platinum
+62,79,Male,30/12/2022,20,388,,257,11/12/2023,Electronics,743,62.92,65,16,8,jcb,Mobile,Gold
+63,50,Female,10/06/2023,98,422,,302,03/06/2024,Automotive,372,13.05,23,1,1,mastercard,Mobile,Silver
+64,82,Male,16/10/2023,36,445,,192,16/07/2024,Beauty,555,25.19,87,6,0,jcb,Desktop,Silver
+65,73,Female,20/09/2021,69,414,,340,25/11/2023,Health,955,28.32,65,0,10,diners-club-enroute,Mobile,Bronze
+66,42,Male,01/06/2024,26,254,,242,18/12/2023,Pets,899,42.79,99,20,4,jcb,Mobile,Silver
+67,78,Female,07/05/2020,16,480,,63,07/02/2024,Electronics,490,93.33,24,8,7,china-unionpay,Desktop,Gold
+68,44,Female,15/11/2018,68,159,,287,12/08/2024,Beauty,355,77.71,74,15,6,mastercard,Mobile,Silver
+69,62,Female,07/03/2020,58,159,,186,27/10/2023,Clothing,956,6.74,8,13,9,jcb,Mobile,Platinum
+70,53,Male,09/09/2022,96,254,,263,28/05/2024,Home & Kitchen,3,48.02,75,8,3,jcb,Mobile,Platinum
+71,44,Female,13/08/2019,64,217,,133,07/11/2023,Sports & Outdoors,479,65.7,98,13,9,diners-club-enroute,Desktop,Platinum
+72,75,Female,26/07/2019,37,45,,308,26/12/2023,Automotive,815,1.9,42,14,9,bankcard,Desktop,Silver
+73,90,Male,15/05/2021,50,391,,330,27/04/2024,Books,365,51.56,89,2,7,switch,Mobile,Platinum
+74,36,Female,18/06/2024,96,490,,16,09/07/2024,Books,974,52.1,44,3,3,maestro,Desktop,Silver
+75,59,Male,23/05/2021,69,346,,284,21/12/2023,Home & Kitchen,617,88.2,25,6,1,jcb,Mobile,Bronze
+76,88,Male,26/02/2024,52,68,,345,16/11/2023,Home & Kitchen,505,58.75,5,11,7,americanexpress,Mobile,Silver
+77,43,Male,29/11/2020,39,411,,333,15/06/2024,Sports & Outdoors,396,62.16,21,18,6,jcb,Desktop,Silver
+78,23,Male,13/11/2022,72,439,,196,06/04/2024,Home & Kitchen,551,50.32,28,18,3,bankcard,Desktop,Gold
+79,91,Male,28/01/2019,63,139,,21,03/06/2024,Home & Kitchen,876,64.3,22,1,6,jcb,Desktop,Platinum
+80,23,Male,06/07/2019,60,422,,48,01/01/2024,Home & Kitchen,974,33.49,54,11,2,china-unionpay,Desktop,Platinum
+81,72,Female,21/03/2021,88,85,,58,16/01/2024,Toys,297,61.57,96,20,0,jcb,Mobile,Gold
+82,53,Female,21/12/2023,5,341,,16,17/04/2024,Home & Kitchen,435,29.89,48,1,2,jcb,Mobile,Platinum
+83,20,Male,11/02/2021,73,120,,188,11/07/2024,Clothing,587,93.13,38,13,8,china-unionpay,Mobile,Platinum
+84,77,Female,03/02/2024,93,492,,56,05/02/2024,Home & Kitchen,911,41.44,29,18,0,visa,Mobile,Silver
+85,90,Male,25/10/2020,17,62,,207,23/04/2024,Books,466,91.26,91,15,10,americanexpress,Desktop,Bronze
+86,24,Female,09/06/2020,83,203,,130,12/05/2024,Sports & Outdoors,867,67.99,31,0,8,jcb,Desktop,Gold
+87,84,Female,21/05/2019,47,304,,312,17/02/2024,Clothing,223,19.59,65,9,4,jcb,Mobile,Platinum
+88,84,Female,11/01/2020,30,273,,52,19/03/2024,Toys,467,16.33,68,10,7,jcb,Mobile,Platinum
+89,29,Female,19/09/2022,66,158,,352,11/08/2024,Automotive,906,45.49,92,13,2,laser,Desktop,Platinum
+90,43,Female,07/07/2022,58,461,,122,11/06/2024,Electronics,743,38.44,94,4,6,switch,Desktop,Platinum
+91,42,Male,17/02/2022,99,290,,286,28/07/2024,Sports & Outdoors,65,31.51,77,4,3,mastercard,Desktop,Bronze
+92,24,Female,31/05/2021,60,286,,316,13/09/2024,Sports & Outdoors,211,86.48,64,14,0,diners-club-enroute,Mobile,Bronze
+93,67,Female,12/09/2018,6,247,,74,01/05/2024,Beauty,857,62.15,20,2,10,americanexpress,Mobile,Bronze
+94,55,Female,08/03/2022,87,394,,323,17/11/2023,Electronics,771,68.66,55,2,6,visa-electron,Desktop,Gold
+95,38,Female,01/10/2019,47,439,,234,26/06/2024,Toys,230,1.74,69,12,6,bankcard,Mobile,Gold
+96,31,Female,02/05/2022,34,408,,346,26/11/2023,Sports & Outdoors,310,9.89,35,0,7,jcb,Desktop,Gold
+97,67,Female,20/12/2021,57,386,,261,16/07/2024,Home & Kitchen,698,62.44,7,13,10,jcb,Desktop,Silver
+98,45,Female,18/05/2023,28,358,,150,03/05/2024,Electronics,380,3.56,55,5,4,visa,Desktop,Silver
+99,44,Male,25/01/2024,41,34,,8,25/02/2024,Health,503,82.39,56,19,0,jcb,Mobile,Platinum
+100,19,Female,12/08/2022,62,50,,162,08/05/2024,Toys,64,67.4,21,4,10,jcb,Desktop,Platinum
+101,61,Female,04/11/2020,65,493,,97,07/09/2024,Toys,858,76.52,34,19,9,jcb,Mobile,Gold
+102,30,Male,31/12/2020,3,345,,237,24/06/2024,Automotive,436,73.51,84,18,4,mastercard,Mobile,Gold
+103,90,Male,23/12/2019,71,83,,38,22/11/2023,Beauty,1026,32.04,93,16,0,instapayment,Mobile,Platinum
+104,79,Male,27/08/2021,51,482,,126,12/03/2024,Automotive,497,35.77,65,11,2,switch,Desktop,Platinum
+105,59,Female,25/05/2021,41,350,,258,24/12/2023,Clothing,1006,19.97,3,8,6,solo,Desktop,Platinum
+106,40,Male,13/07/2020,19,281,,224,19/03/2024,Books,698,37.37,39,16,0,jcb,Desktop,Bronze
+107,44,Female,17/06/2018,99,120,,192,15/12/2023,Sports & Outdoors,529,77.02,44,5,9,mastercard,Desktop,Bronze
+108,60,Male,09/05/2024,81,10,,196,04/06/2024,Home & Kitchen,23,45.81,98,6,4,jcb,Mobile,Platinum
+109,23,Male,27/08/2020,40,433,,118,24/02/2024,Books,242,79.97,57,12,7,visa,Mobile,Bronze
+110,49,Male,20/12/2018,60,286,,287,26/08/2024,Pets,841,76.96,40,1,7,mastercard,Mobile,Silver
+111,62,Male,17/07/2021,75,149,,214,02/12/2023,Electronics,391,78.93,54,16,1,china-unionpay,Desktop,Platinum
+112,72,Female,19/12/2022,49,455,,139,04/11/2023,Clothing,36,77.48,65,15,2,americanexpress,Desktop,Bronze
+113,88,Female,26/12/2022,95,33,,186,11/09/2024,Automotive,242,92.42,36,12,10,china-unionpay,Desktop,Platinum
+114,72,Female,02/07/2019,6,488,,313,04/07/2024,Books,883,93.13,80,11,10,jcb,Desktop,Bronze
+115,69,Female,05/01/2019,98,295,,31,28/07/2024,Toys,629,53.93,34,7,2,jcb,Desktop,Platinum
+116,48,Female,22/03/2024,76,448,,328,24/04/2024,Automotive,684,94.49,21,15,10,mastercard,Mobile,Silver
+117,84,Female,08/06/2019,40,477,,158,09/12/2023,Clothing,25,73.43,32,6,10,jcb,Desktop,Platinum
+118,91,Male,07/04/2021,24,123,,76,06/04/2024,Health,748,5.89,62,13,10,jcb,Desktop,Silver
+119,65,Male,07/03/2021,57,273,,230,16/09/2024,Pets,211,52.75,81,19,1,china-unionpay,Mobile,Platinum
+120,41,Female,24/04/2018,70,145,,164,26/12/2023,Pets,560,16.37,82,1,10,jcb,Desktop,Silver
+121,42,Male,09/05/2018,96,441,,191,01/08/2024,Automotive,477,69.88,83,3,1,jcb,Desktop,Platinum
+122,45,Female,12/04/2022,64,99,,364,08/06/2024,Clothing,119,66.53,58,0,9,jcb,Mobile,Silver
+123,40,Male,18/03/2022,32,317,,237,10/04/2024,Beauty,518,6.58,9,2,2,jcb,Mobile,Silver
+124,67,Male,16/08/2019,41,120,,176,19/06/2024,Health,425,74.37,90,0,1,diners-club-enroute,Mobile,Silver
+125,95,Male,13/05/2022,12,13,,361,10/08/2024,Pets,923,33.46,49,2,4,visa,Mobile,Platinum
+126,35,Male,16/12/2023,51,267,,42,28/09/2023,Automotive,25,15.07,39,19,6,diners-club-international,Mobile,Gold
+127,37,Male,11/08/2018,65,321,,289,24/07/2024,Books,987,24.17,95,6,7,switch,Mobile,Platinum
+128,44,Male,10/03/2023,9,447,,333,30/05/2024,Automotive,690,49.96,75,2,9,jcb,Mobile,Gold
+129,83,Male,09/11/2018,14,79,,97,21/10/2023,Beauty,183,74.13,18,7,9,jcb,Desktop,Platinum
+130,75,Female,08/04/2020,75,102,,182,07/06/2024,Automotive,749,75.42,37,14,7,diners-club-carte-blanche,Desktop,Platinum
+131,92,Male,21/10/2019,32,36,,64,05/02/2024,Beauty,7,90.28,80,11,5,jcb,Desktop,Gold
+132,79,Male,29/05/2018,92,17,,12,07/09/2024,Toys,487,32.32,46,2,6,jcb,Desktop,Bronze
+133,63,Female,19/06/2022,73,388,,296,02/04/2024,Electronics,697,34.9,10,2,1,laser,Desktop,Bronze
+134,19,Male,18/05/2021,100,32,,283,30/07/2024,Clothing,976,69.6,8,12,8,jcb,Desktop,Gold
+135,65,Male,30/04/2024,51,103,,54,02/09/2024,Beauty,973,30.55,27,2,10,jcb,Desktop,Gold
+136,58,Male,26/08/2019,61,166,,91,18/10/2023,Books,1001,52.3,54,0,5,maestro,Desktop,Bronze
+137,92,Female,28/02/2023,26,410,,198,22/03/2024,Pets,713,2.03,36,13,6,diners-club-enroute,Mobile,Bronze
+138,21,Female,06/10/2020,31,35,,10,18/11/2023,Electronics,383,20.91,63,19,8,jcb,Mobile,Platinum
+139,82,Female,08/04/2022,29,386,,305,23/09/2023,Beauty,13,70.03,92,17,0,jcb,Mobile,Platinum
+140,83,Male,19/01/2021,14,162,,241,30/03/2024,Health,1015,14.8,66,20,8,bankcard,Mobile,Bronze
+141,93,Male,25/02/2020,22,463,,200,03/07/2024,Automotive,780,18.92,44,13,9,china-unionpay,Desktop,Gold
+142,55,Female,27/09/2020,53,13,,357,17/01/2024,Health,539,71.79,97,19,7,jcb,Mobile,Gold
+143,93,Male,18/05/2021,56,404,,324,01/12/2023,Electronics,812,56.28,93,17,5,jcb,Mobile,Gold
+144,64,Male,12/09/2022,19,140,,327,15/03/2024,Automotive,193,57.48,88,5,3,maestro,Desktop,Silver
+145,93,Female,31/07/2024,78,172,,92,10/06/2024,Automotive,10,22.71,93,18,4,diners-club-carte-blanche,Mobile,Gold
+146,73,Female,30/05/2021,29,135,,59,13/06/2024,Electronics,534,74.96,32,3,9,visa-electron,Mobile,Silver
+147,85,Male,28/06/2018,17,365,,96,02/04/2024,Clothing,860,94.27,67,10,8,jcb,Desktop,Bronze
+148,74,Female,27/07/2024,3,210,,361,29/06/2024,Clothing,181,26.55,98,20,10,jcb,Mobile,Gold
+149,40,Female,16/07/2023,2,373,,247,08/09/2024,Sports & Outdoors,643,76.75,15,13,10,maestro,Mobile,Gold
+150,80,Female,21/03/2020,47,13,,330,07/12/2023,Books,683,95.03,9,16,4,switch,Desktop,Gold
+151,71,Female,14/07/2022,42,217,,201,08/05/2024,Automotive,791,31.53,91,19,0,jcb,Mobile,Gold
+152,19,Male,14/05/2019,14,111,,55,14/11/2023,Automotive,368,89.66,54,13,10,maestro,Desktop,Bronze
+153,54,Female,25/03/2021,64,16,,176,25/11/2023,Home & Kitchen,487,94.0,74,19,1,jcb,Mobile,Silver
+154,54,Female,05/09/2020,15,362,,12,24/01/2024,Clothing,43,96.29,18,17,1,americanexpress,Mobile,Bronze
+155,40,Female,15/04/2020,9,152,,333,23/09/2023,Clothing,14,64.2,48,11,4,jcb,Mobile,Platinum
+156,82,Female,11/10/2022,40,380,,99,21/10/2023,Electronics,673,89.79,91,18,3,jcb,Mobile,Silver
+157,80,Male,15/09/2021,96,167,,82,18/11/2023,Toys,72,74.1,99,12,7,mastercard,Desktop,Silver
+158,18,Male,13/09/2024,17,320,,333,05/02/2024,Automotive,452,81.41,78,19,6,instapayment,Mobile,Platinum
+159,47,Female,25/10/2021,47,195,,113,17/06/2024,Clothing,304,7.3,82,7,9,jcb,Mobile,Platinum
+160,46,Female,23/09/2022,24,204,,36,07/07/2024,Electronics,660,92.18,2,15,2,jcb,Desktop,Silver
+161,95,Male,27/02/2022,27,498,,308,04/03/2024,Automotive,1030,96.51,77,9,8,switch,Desktop,Bronze
+162,34,Female,16/11/2022,32,205,,4,09/12/2023,Pets,427,20.85,7,10,5,jcb,Desktop,Bronze
+163,35,Male,29/12/2021,23,217,,137,20/07/2024,Health,602,32.8,18,10,4,diners-club-us-ca,Desktop,Silver
+164,92,Male,26/07/2023,39,312,,219,27/02/2024,Home & Kitchen,342,83.78,32,6,3,jcb,Desktop,Silver
+165,56,Female,15/07/2018,94,118,,34,29/04/2024,Toys,228,8.9,22,10,1,jcb,Mobile,Silver
+166,56,Female,12/11/2022,42,134,,134,02/08/2024,Toys,601,45.04,87,5,10,visa,Mobile,Bronze
+167,56,Female,13/10/2023,80,194,,39,16/03/2024,Electronics,709,46.36,81,0,9,mastercard,Desktop,Silver
+168,64,Female,13/03/2023,90,235,,361,25/07/2024,Toys,990,88.9,67,6,5,jcb,Mobile,Gold
+169,90,Male,21/09/2020,61,451,,282,30/08/2024,Beauty,627,89.85,89,11,10,maestro,Desktop,Platinum
+170,47,Female,08/06/2019,7,442,,38,27/06/2024,Sports & Outdoors,587,56.93,54,14,1,americanexpress,Mobile,Bronze
+171,81,Male,08/07/2023,76,77,,281,04/02/2024,Pets,392,78.05,80,18,5,jcb,Mobile,Gold
+172,21,Female,13/03/2022,37,191,,261,09/03/2024,Pets,207,78.0,29,4,4,visa-electron,Desktop,Platinum
+173,54,Female,12/05/2023,65,402,,193,13/02/2024,Electronics,20,92.26,6,20,4,switch,Desktop,Gold
+174,41,Female,14/10/2022,18,322,,102,23/01/2024,Home & Kitchen,674,13.18,8,4,3,mastercard,Mobile,Platinum
+175,54,Male,26/02/2021,56,198,,38,20/07/2024,Books,965,97.01,57,0,8,bankcard,Desktop,Silver
+176,55,Male,04/02/2018,27,450,,191,09/07/2024,Automotive,800,52.21,90,15,4,bankcard,Desktop,Bronze
+177,41,Male,01/05/2018,37,167,,99,21/11/2023,Electronics,83,22.38,4,2,7,mastercard,Mobile,Gold
+178,39,Female,23/04/2023,60,71,,352,22/02/2024,Automotive,200,14.46,65,2,7,jcb,Desktop,Silver
+179,95,Male,25/04/2019,61,121,,340,30/01/2024,Health,895,44.43,42,2,10,jcb,Mobile,Silver
+180,57,Male,29/04/2020,93,500,,261,27/02/2024,Sports & Outdoors,943,7.19,98,13,2,maestro,Mobile,Gold
+181,70,Female,04/01/2021,58,220,,94,22/03/2024,Pets,670,72.77,90,13,9,solo,Desktop,Platinum
+182,89,Female,25/04/2020,13,310,,99,23/09/2023,Books,201,82.67,71,0,5,visa-electron,Mobile,Platinum
+183,84,Female,07/02/2020,57,319,,271,15/07/2024,Home & Kitchen,642,59.72,54,13,4,americanexpress,Desktop,Gold
+184,58,Female,03/03/2023,29,484,,235,26/04/2024,Beauty,518,1.79,28,14,9,diners-club-carte-blanche,Desktop,Bronze
+185,18,Male,18/04/2020,77,262,,119,24/01/2024,Beauty,747,9.03,64,3,9,mastercard,Desktop,Gold
+186,89,Male,09/01/2020,11,395,,296,14/03/2024,Electronics,920,0.49,29,18,6,mastercard,Desktop,Silver
+187,44,Male,06/03/2021,65,136,,202,26/11/2023,Electronics,945,84.4,1,16,2,mastercard,Mobile,Silver
+188,74,Male,13/05/2023,42,359,,285,04/02/2024,Home & Kitchen,606,41.88,92,19,5,jcb,Mobile,Silver
+189,53,Male,27/05/2018,22,237,,158,27/05/2024,Toys,271,23.76,58,5,7,jcb,Mobile,Silver
+190,69,Female,19/04/2023,2,296,,146,25/06/2024,Toys,579,62.72,81,7,6,jcb,Mobile,Silver
+191,44,Female,06/09/2018,34,225,,335,13/02/2024,Sports & Outdoors,97,40.92,43,10,3,jcb,Desktop,Gold
+192,53,Male,13/02/2018,97,167,,297,27/01/2024,Toys,938,46.0,65,1,7,jcb,Mobile,Gold
+193,45,Male,19/10/2021,90,285,,90,06/10/2023,Automotive,955,2.63,66,3,3,diners-club-carte-blanche,Desktop,Gold
+194,38,Female,17/03/2022,50,15,,194,05/10/2023,Beauty,652,49.15,61,1,9,jcb,Desktop,Gold
+195,81,Male,04/08/2021,92,395,,160,05/04/2024,Clothing,115,48.27,54,2,10,switch,Desktop,Silver
+196,32,Female,18/11/2022,66,32,,313,04/04/2024,Health,389,83.72,57,1,8,diners-club-carte-blanche,Desktop,Platinum
+197,45,Female,06/01/2020,79,356,,2,14/07/2024,Toys,672,88.35,24,19,10,jcb,Desktop,Silver
+198,93,Male,22/04/2024,20,455,,66,27/04/2024,Home & Kitchen,14,18.27,94,9,5,diners-club-carte-blanche,Mobile,Gold
+199,48,Male,22/08/2024,71,418,,43,11/05/2024,Pets,285,21.24,41,16,1,jcb,Mobile,Bronze
+200,52,Male,23/11/2020,14,214,,304,06/06/2024,Toys,825,92.8,34,19,8,mastercard,Desktop,Platinum
+201,20,Male,04/02/2022,53,153,,194,29/08/2024,Electronics,919,72.75,94,7,4,maestro,Desktop,Bronze
+202,60,Female,26/01/2020,99,43,,335,02/02/2024,Toys,113,86.01,6,14,9,jcb,Mobile,Gold
+203,74,Male,21/02/2024,10,83,,87,19/10/2023,Automotive,995,14.76,15,0,7,jcb,Mobile,Silver
+204,29,Male,18/02/2020,43,86,,182,28/02/2024,Home & Kitchen,54,82.87,23,6,8,bankcard,Desktop,Platinum
+205,44,Female,05/06/2021,25,290,,271,19/05/2024,Electronics,83,0.97,80,19,8,jcb,Mobile,Bronze
+206,69,Male,12/05/2018,89,149,,319,22/12/2023,Home & Kitchen,982,74.98,90,18,6,jcb,Mobile,Bronze
+207,43,Male,25/08/2023,50,227,,50,15/10/2023,Electronics,374,24.57,29,10,4,jcb,Desktop,Platinum
+208,75,Female,30/10/2019,93,49,,93,07/02/2024,Automotive,663,77.76,85,2,9,maestro,Desktop,Gold
+209,75,Female,30/08/2019,96,283,,212,29/11/2023,Beauty,231,59.49,1,0,4,visa-electron,Desktop,Bronze
+210,24,Female,28/05/2024,60,196,,67,03/03/2024,Home & Kitchen,439,38.06,98,2,9,jcb,Desktop,Platinum
+211,43,Female,22/04/2018,29,355,,333,20/08/2024,Health,282,67.8,67,12,10,jcb,Mobile,Platinum
+212,58,Female,10/12/2021,70,114,,263,13/11/2023,Clothing,1014,57.2,86,16,1,china-unionpay,Mobile,Silver
+213,93,Female,20/09/2020,66,498,,151,30/04/2024,Clothing,246,92.79,64,11,1,mastercard,Desktop,Bronze
+214,48,Female,29/05/2020,20,61,,224,30/05/2024,Beauty,97,11.12,18,19,10,china-unionpay,Desktop,Silver
+215,29,Female,21/09/2023,9,175,,8,17/02/2024,Health,258,91.1,20,13,3,americanexpress,Mobile,Bronze
+216,39,Female,04/07/2021,21,399,,146,23/04/2024,Health,754,30.34,68,17,1,jcb,Mobile,Silver
+217,59,Male,01/03/2019,94,123,,312,26/10/2023,Clothing,326,98.39,37,0,3,mastercard,Desktop,Bronze
+218,63,Female,01/11/2020,26,306,,221,28/11/2023,Beauty,29,67.72,44,18,0,mastercard,Desktop,Platinum
+219,24,Female,09/06/2024,4,138,,70,09/05/2024,Clothing,254,94.46,23,20,2,maestro,Desktop,Platinum
+220,39,Male,17/12/2022,88,250,,288,25/04/2024,Home & Kitchen,464,94.32,51,7,6,jcb,Mobile,Gold
+221,36,Male,19/03/2023,27,256,,273,07/02/2024,Clothing,335,15.97,63,18,0,jcb,Desktop,Silver
+222,27,Male,16/05/2022,92,376,,104,17/10/2023,Automotive,967,87.19,3,5,7,diners-club-carte-blanche,Desktop,Bronze
+223,58,Female,04/11/2019,82,172,,300,04/12/2023,Health,629,91.47,45,8,0,mastercard,Desktop,Gold
+224,58,Male,02/01/2023,20,387,,95,21/05/2024,Beauty,385,45.12,43,12,1,mastercard,Mobile,Gold
+225,47,Female,29/08/2019,5,53,,40,20/02/2024,Beauty,786,8.82,87,17,2,diners-club-carte-blanche,Mobile,Gold
+226,81,Male,21/07/2023,26,492,,65,18/04/2024,Electronics,510,85.21,5,9,6,jcb,Desktop,Platinum
+227,87,Male,20/12/2018,58,11,,150,15/06/2024,Beauty,896,9.21,78,17,6,jcb,Desktop,Gold
+228,52,Female,19/11/2022,53,354,,22,29/08/2024,Automotive,807,93.2,37,19,4,diners-club-carte-blanche,Mobile,Gold
+229,83,Male,07/01/2022,50,323,,239,25/09/2023,Electronics,470,46.06,8,4,10,americanexpress,Desktop,Bronze
+230,21,Male,27/02/2022,46,326,,73,05/04/2024,Pets,386,37.95,82,11,7,diners-club-us-ca,Mobile,Silver
+231,32,Male,30/01/2020,54,142,,40,12/06/2024,Health,504,14.36,72,13,7,visa-electron,Mobile,Gold
+232,32,Male,07/10/2021,37,351,,23,08/12/2023,Electronics,299,76.86,38,1,4,mastercard,Mobile,Bronze
+233,46,Female,04/07/2024,38,26,,291,12/07/2024,Books,277,26.36,30,11,0,mastercard,Mobile,Platinum
+234,56,Female,11/08/2020,50,356,,263,06/06/2024,Electronics,796,90.13,51,18,7,bankcard,Desktop,Bronze
+235,32,Female,15/01/2021,69,158,,263,02/05/2024,Sports & Outdoors,987,7.27,59,8,2,visa-electron,Mobile,Silver
+236,39,Male,23/01/2020,52,33,,250,25/09/2023,Electronics,532,82.29,84,4,4,jcb,Mobile,Silver
+237,33,Female,19/08/2023,61,170,,17,04/04/2024,Automotive,923,53.75,8,18,6,jcb,Mobile,Bronze
+238,42,Male,17/01/2019,53,60,,345,27/02/2024,Beauty,314,56.63,94,11,3,diners-club-enroute,Desktop,Gold
+239,37,Female,06/06/2020,42,143,,68,27/05/2024,Home & Kitchen,190,73.46,59,4,5,jcb,Desktop,Platinum
+240,22,Male,21/12/2021,87,370,,151,13/08/2024,Pets,259,74.85,29,4,6,diners-club-carte-blanche,Mobile,Gold
+241,85,Male,13/12/2022,46,335,,86,12/06/2024,Clothing,239,8.29,24,4,5,jcb,Mobile,Platinum
+242,46,Male,23/07/2024,78,147,,144,10/11/2023,Electronics,334,83.36,53,11,4,mastercard,Mobile,Gold
+243,72,Female,20/08/2018,64,419,,48,30/09/2023,Books,697,52.45,34,11,4,bankcard,Desktop,Bronze
+244,67,Female,27/07/2019,56,458,,183,27/03/2024,Sports & Outdoors,465,70.82,7,12,7,visa-electron,Mobile,Bronze
+245,19,Female,10/11/2021,44,246,,308,15/06/2024,Beauty,563,22.29,17,0,10,diners-club-enroute,Desktop,Gold
+246,25,Female,26/10/2023,67,67,,26,07/11/2023,Home & Kitchen,629,17.6,7,10,6,maestro,Desktop,Platinum
+247,22,Male,06/02/2021,96,485,,316,10/11/2023,Clothing,788,92.99,25,15,2,china-unionpay,Desktop,Silver
+248,67,Male,04/06/2023,82,10,,78,09/01/2024,Clothing,930,42.55,12,14,6,jcb,Mobile,Bronze
+249,62,Female,14/01/2023,59,336,,133,16/03/2024,Books,916,31.35,36,8,4,visa,Desktop,Gold
+250,91,Male,27/08/2023,51,45,,256,22/09/2023,Pets,140,75.84,10,13,9,maestro,Mobile,Silver
+251,38,Male,22/10/2019,26,51,,286,16/03/2024,Sports & Outdoors,904,83.28,1,16,7,americanexpress,Desktop,Platinum
+252,84,Male,20/09/2022,31,239,,266,05/03/2024,Electronics,87,72.26,60,11,0,jcb,Desktop,Bronze
+253,53,Male,02/08/2020,90,121,,172,28/08/2024,Health,704,24.65,86,0,1,china-unionpay,Mobile,Gold
+254,25,Female,08/01/2021,50,254,,330,03/06/2024,Automotive,166,87.73,99,4,3,switch,Mobile,Bronze
+255,61,Female,07/07/2018,6,208,,364,19/03/2024,Toys,901,80.62,97,9,9,jcb,Mobile,Silver
+256,74,Female,16/10/2022,52,221,,255,16/02/2024,Home & Kitchen,578,7.8,6,15,0,jcb,Desktop,Bronze
+257,18,Female,05/01/2022,68,316,,354,23/07/2024,Clothing,1015,68.98,80,19,5,switch,Desktop,Bronze
+258,39,Male,02/02/2020,45,165,,128,31/10/2023,Books,544,28.6,84,4,2,bankcard,Mobile,Silver
+259,62,Female,30/05/2024,14,287,,20,28/12/2023,Automotive,941,52.97,12,6,8,visa-electron,Mobile,Platinum
+260,30,Male,20/06/2021,57,194,,288,20/07/2024,Pets,5,23.6,94,19,1,china-unionpay,Mobile,Silver
+261,19,Male,15/11/2021,32,203,,99,07/12/2023,Pets,532,34.84,38,10,2,mastercard,Mobile,Platinum
+262,55,Female,07/06/2023,64,154,,164,18/04/2024,Pets,517,34.69,65,7,5,maestro,Mobile,Silver
+263,23,Male,14/11/2021,13,19,,134,30/06/2024,Home & Kitchen,564,46.89,99,8,10,jcb,Desktop,Silver
+264,27,Female,24/03/2023,63,59,,72,12/05/2024,Home & Kitchen,717,18.52,50,9,8,jcb,Desktop,Platinum
+265,51,Male,11/05/2024,81,418,,101,29/10/2023,Sports & Outdoors,614,9.54,50,17,9,laser,Desktop,Gold
+266,33,Female,12/04/2018,13,371,,94,28/08/2024,Automotive,439,73.58,56,5,5,jcb,Desktop,Silver
+267,94,Male,26/07/2022,99,30,,70,08/08/2024,Health,275,4.98,1,14,4,jcb,Mobile,Bronze
+268,55,Male,15/07/2019,29,498,,264,11/12/2023,Home & Kitchen,532,97.06,43,13,5,mastercard,Desktop,Platinum
+269,94,Male,02/04/2022,91,425,,163,05/04/2024,Home & Kitchen,92,8.98,53,12,1,maestro,Desktop,Gold
+270,89,Female,17/07/2020,60,205,,222,27/03/2024,Beauty,993,68.0,88,18,2,jcb,Mobile,Silver
+271,70,Male,30/09/2022,35,265,,1,06/04/2024,Pets,834,12.41,19,8,4,jcb,Mobile,Silver
+272,49,Female,24/04/2019,46,399,,59,25/11/2023,Clothing,838,81.55,32,12,5,jcb,Desktop,Silver
+273,32,Male,02/02/2020,85,89,,230,22/05/2024,Beauty,254,63.7,98,17,1,jcb,Desktop,Silver
+274,37,Female,12/08/2024,72,119,,287,11/07/2024,Books,451,74.26,64,19,2,mastercard,Mobile,Platinum
+275,75,Male,09/02/2022,9,216,,343,16/06/2024,Health,1026,58.68,78,6,2,mastercard,Desktop,Silver
+276,73,Female,28/04/2019,75,425,,351,10/10/2023,Toys,985,83.34,0,10,10,solo,Desktop,Platinum
+277,55,Male,26/10/2023,46,236,,204,03/06/2024,Home & Kitchen,415,73.76,10,6,7,mastercard,Mobile,Silver
+278,50,Female,02/03/2021,88,253,,327,21/01/2024,Automotive,595,43.12,27,10,2,jcb,Mobile,Gold
+279,46,Male,21/04/2024,21,241,,85,03/06/2024,Home & Kitchen,647,11.76,22,7,8,jcb,Mobile,Platinum
+280,81,Male,15/03/2023,57,394,,207,03/06/2024,Pets,1015,82.61,72,18,1,mastercard,Mobile,Bronze
+281,60,Female,10/08/2020,71,319,,86,06/10/2023,Home & Kitchen,240,86.56,7,13,4,solo,Desktop,Gold
+282,72,Female,25/06/2021,28,131,,71,21/10/2023,Health,437,11.33,9,15,1,americanexpress,Desktop,Bronze
+283,90,Female,12/02/2023,84,353,,230,03/04/2024,Automotive,234,87.98,69,18,10,maestro,Mobile,Silver
+284,65,Female,29/07/2023,32,403,,337,27/08/2024,Electronics,591,90.35,96,8,5,mastercard,Mobile,Bronze
+285,63,Female,30/09/2020,13,193,,80,05/03/2024,Electronics,723,0.24,73,15,6,jcb,Mobile,Gold
+286,87,Female,20/05/2022,63,343,,120,25/11/2023,Clothing,382,2.98,44,2,0,mastercard,Desktop,Platinum
+287,67,Female,22/09/2018,28,129,,189,17/10/2023,Home & Kitchen,352,20.27,78,1,9,maestro,Desktop,Bronze
+288,84,Female,02/08/2018,30,402,,12,15/03/2024,Health,911,13.17,14,17,10,jcb,Mobile,Bronze
+289,61,Female,11/02/2018,66,65,,241,11/04/2024,Home & Kitchen,1002,72.22,39,19,3,maestro,Mobile,Silver
+290,38,Female,09/12/2019,86,173,,284,08/04/2024,Toys,207,61.11,4,9,5,jcb,Mobile,Silver
+291,49,Female,03/07/2018,65,322,,333,02/07/2024,Beauty,444,38.22,38,17,9,mastercard,Desktop,Platinum
+292,73,Male,11/08/2024,60,380,,154,20/08/2024,Toys,746,23.4,67,17,7,jcb,Desktop,Gold
+293,42,Male,16/06/2020,76,435,,20,15/08/2024,Clothing,959,5.63,23,18,7,mastercard,Mobile,Silver
+294,51,Female,09/07/2022,54,483,,133,03/02/2024,Pets,537,17.24,5,12,6,jcb,Desktop,Gold
+295,59,Male,17/12/2020,67,193,,181,11/01/2024,Electronics,957,96.45,70,18,0,jcb,Desktop,Gold
+296,94,Female,03/10/2019,55,14,,234,31/10/2023,Beauty,578,62.06,71,14,6,instapayment,Desktop,Silver
+297,37,Female,20/03/2018,14,194,,93,19/06/2024,Books,569,31.6,89,4,4,laser,Mobile,Platinum
+298,19,Male,31/03/2020,8,413,,237,14/05/2024,Automotive,1009,98.78,86,11,5,jcb,Desktop,Bronze
+299,58,Female,07/01/2023,33,408,,272,11/12/2023,Electronics,763,11.09,36,19,5,jcb,Mobile,Silver
+300,45,Female,25/06/2024,29,144,,98,07/12/2023,Health,409,78.1,23,19,8,diners-club-carte-blanche,Mobile,Bronze
+301,61,Male,23/03/2023,93,296,,348,25/10/2023,Pets,755,30.92,53,5,4,china-unionpay,Desktop,Gold
+302,24,Female,16/08/2018,74,151,,354,16/10/2023,Electronics,198,17.55,91,8,1,jcb,Desktop,Silver
+303,35,Female,06/03/2023,80,61,,205,29/11/2023,Health,188,3.27,87,18,5,jcb,Desktop,Silver
+304,59,Male,25/11/2021,32,472,,77,25/11/2023,Clothing,981,63.7,60,3,10,diners-club-enroute,Mobile,Bronze
+305,70,Female,27/07/2018,3,72,,324,09/03/2024,Automotive,476,71.06,67,10,9,laser,Mobile,Platinum
+306,69,Male,02/04/2021,94,300,,278,26/04/2024,Toys,518,11.2,1,13,9,laser,Desktop,Gold
+307,93,Male,09/01/2020,79,478,,180,04/12/2023,Toys,84,38.81,35,9,1,jcb,Desktop,Bronze
+308,85,Male,14/07/2019,38,342,,363,30/05/2024,Pets,50,14.54,68,7,4,americanexpress,Mobile,Silver
+309,55,Female,26/03/2019,63,30,,189,29/11/2023,Automotive,921,57.33,42,0,2,mastercard,Desktop,Bronze
+310,88,Male,02/04/2024,87,248,,210,05/09/2024,Health,724,73.91,26,5,10,jcb,Desktop,Platinum
+311,76,Female,12/01/2024,43,185,,84,14/04/2024,Pets,508,78.64,93,17,5,diners-club-enroute,Desktop,Gold
+312,43,Male,18/07/2019,46,173,,75,09/07/2024,Pets,957,11.88,72,6,5,jcb,Mobile,Bronze
+313,56,Female,15/10/2022,60,222,,142,16/11/2023,Automotive,47,80.42,68,4,5,jcb,Desktop,Silver
+314,59,Female,03/01/2024,93,74,,322,29/11/2023,Sports & Outdoors,85,77.02,39,20,9,jcb,Mobile,Bronze
+315,75,Male,09/12/2018,30,232,,163,27/03/2024,Automotive,649,51.23,27,15,3,jcb,Mobile,Silver
+316,25,Male,24/07/2020,12,224,,26,27/01/2024,Pets,875,28.37,39,1,1,mastercard,Mobile,Gold
+317,85,Female,06/07/2020,52,66,,203,09/10/2023,Sports & Outdoors,914,58.38,53,12,6,jcb,Desktop,Gold
+318,70,Female,06/09/2021,93,467,,160,13/06/2024,Sports & Outdoors,725,55.61,51,17,9,jcb,Desktop,Bronze
+319,43,Female,09/03/2024,21,329,,43,09/03/2024,Beauty,707,0.57,97,5,3,jcb,Desktop,Gold
+320,70,Male,28/06/2018,76,146,,218,06/07/2024,Sports & Outdoors,77,59.13,19,15,7,visa,Desktop,Bronze
+321,64,Male,17/01/2024,52,111,,152,04/12/2023,Toys,435,90.14,18,7,0,maestro,Desktop,Gold
+322,69,Female,22/08/2019,24,495,,162,15/09/2024,Electronics,876,28.37,84,1,2,mastercard,Mobile,Platinum
+323,82,Female,20/05/2023,37,346,,102,13/12/2023,Toys,923,73.37,85,15,2,china-unionpay,Desktop,Silver
+324,56,Male,02/05/2018,64,278,,339,13/12/2023,Sports & Outdoors,35,6.42,6,6,7,switch,Desktop,Silver
+325,23,Female,23/08/2021,76,193,,362,26/12/2023,Electronics,520,90.85,51,10,4,jcb,Desktop,Platinum
+326,28,Male,17/03/2020,85,250,,261,13/02/2024,Toys,768,30.9,28,5,5,jcb,Mobile,Platinum
+327,85,Male,06/01/2023,12,465,,252,14/09/2024,Home & Kitchen,526,48.08,3,0,5,jcb,Mobile,Platinum
+328,81,Female,10/04/2021,31,86,,206,11/06/2024,Electronics,236,24.23,81,18,2,mastercard,Mobile,Silver
+329,49,Male,27/03/2021,35,234,,15,26/08/2024,Beauty,251,94.01,71,18,5,mastercard,Mobile,Gold
+330,74,Female,28/05/2021,6,358,,17,04/09/2024,Electronics,939,77.43,88,10,6,jcb,Desktop,Platinum
+331,33,Male,18/07/2023,89,128,,49,01/01/2024,Books,795,6.8,71,8,7,switch,Mobile,Gold
+332,38,Male,15/02/2020,42,167,,128,15/03/2024,Electronics,906,0.73,41,8,8,mastercard,Mobile,Gold
+333,29,Female,14/01/2021,3,301,,252,15/02/2024,Home & Kitchen,763,87.06,33,15,3,jcb,Mobile,Gold
+334,74,Male,09/08/2022,73,264,,53,21/07/2024,Sports & Outdoors,461,17.94,95,20,9,china-unionpay,Mobile,Gold
+335,28,Female,23/09/2019,58,280,,172,18/07/2024,Automotive,811,42.1,39,7,7,diners-club-international,Desktop,Platinum
+336,36,Male,29/06/2022,39,255,,151,14/06/2024,Clothing,471,90.54,81,5,7,china-unionpay,Desktop,Gold
+337,18,Female,18/08/2018,67,235,,211,21/07/2024,Sports & Outdoors,804,84.88,20,20,2,mastercard,Mobile,Silver
+338,31,Female,15/01/2024,10,66,,228,17/06/2024,Electronics,170,69.52,70,3,7,jcb,Mobile,Platinum
+339,54,Male,03/06/2019,13,363,,68,12/11/2023,Pets,134,22.75,95,5,9,diners-club-us-ca,Desktop,Gold
+340,68,Female,11/03/2022,100,335,,75,02/11/2023,Beauty,732,22.67,63,12,8,visa,Mobile,Gold
+341,62,Female,07/01/2024,53,399,,302,17/06/2024,Automotive,413,35.53,73,5,6,jcb,Desktop,Platinum
+342,32,Female,28/09/2022,34,42,,80,18/10/2023,Toys,490,17.09,93,18,4,jcb,Mobile,Bronze
+343,36,Female,17/10/2023,72,316,,238,04/11/2023,Health,253,9.62,0,4,2,jcb,Mobile,Gold
+344,22,Male,13/07/2021,47,233,,71,14/01/2024,Health,619,63.55,78,13,8,visa,Desktop,Gold
+345,19,Male,21/06/2021,52,339,,128,16/06/2024,Beauty,236,0.41,93,10,4,jcb,Mobile,Silver
+346,58,Male,26/07/2020,3,370,,111,03/09/2024,Clothing,554,15.18,75,13,1,visa,Desktop,Platinum
+347,28,Male,04/11/2022,37,325,,129,16/11/2023,Health,195,43.32,37,16,10,solo,Desktop,Gold
+348,65,Female,22/03/2024,33,19,,109,14/07/2024,Clothing,973,82.68,69,12,7,jcb,Desktop,Platinum
+349,19,Male,16/01/2020,43,448,,269,29/06/2024,Toys,390,96.11,56,19,2,visa-electron,Desktop,Gold
+350,89,Female,15/10/2019,18,475,,339,24/10/2023,Health,522,17.44,14,14,0,china-unionpay,Mobile,Platinum
+351,91,Female,08/03/2019,22,87,,340,20/03/2024,Toys,815,98.01,84,18,7,maestro,Mobile,Platinum
+352,44,Male,03/01/2023,86,328,,43,19/10/2023,Sports & Outdoors,405,33.78,63,18,9,jcb,Desktop,Gold
+353,81,Male,02/09/2024,90,329,,240,09/08/2024,Automotive,80,90.47,84,16,10,visa-electron,Desktop,Silver
+354,80,Male,10/03/2022,26,232,,278,11/11/2023,Clothing,373,84.9,96,0,3,visa-electron,Desktop,Platinum
+355,69,Female,07/06/2018,11,26,,358,27/02/2024,Sports & Outdoors,694,68.89,54,18,10,switch,Desktop,Gold
+356,66,Female,15/12/2020,53,335,,295,16/06/2024,Books,29,84.16,60,10,0,jcb,Desktop,Bronze
+357,85,Male,21/01/2020,57,474,,113,11/01/2024,Electronics,695,82.83,67,10,9,bankcard,Desktop,Silver
+358,75,Female,07/09/2024,48,108,,14,19/03/2024,Home & Kitchen,194,40.43,46,10,2,mastercard,Mobile,Platinum
+359,84,Female,04/04/2018,25,47,,104,26/01/2024,Books,900,73.88,36,6,2,jcb,Desktop,Gold
+360,22,Male,04/11/2021,3,197,,241,01/06/2024,Pets,180,7.73,90,0,1,jcb,Mobile,Bronze
+361,20,Male,17/06/2024,11,102,,237,28/07/2024,Sports & Outdoors,241,54.54,48,18,10,china-unionpay,Desktop,Bronze
+362,70,Female,29/03/2024,53,292,,188,02/04/2024,Toys,399,86.65,19,10,1,jcb,Desktop,Platinum
+363,95,Male,22/01/2024,89,495,,12,13/04/2024,Beauty,989,49.12,55,15,6,jcb,Mobile,Platinum
+364,43,Male,26/11/2023,81,430,,161,15/06/2024,Clothing,493,30.48,15,13,8,jcb,Mobile,Bronze
+365,28,Female,28/12/2022,57,188,,226,16/07/2024,Home & Kitchen,1023,16.08,64,9,6,diners-club-enroute,Mobile,Gold
+366,95,Male,05/09/2018,72,449,,304,17/07/2024,Books,527,79.66,31,18,6,laser,Desktop,Bronze
+367,85,Male,16/11/2023,21,19,,348,01/02/2024,Sports & Outdoors,1004,78.47,36,17,0,mastercard,Mobile,Platinum
+368,54,Female,26/11/2019,45,58,,72,26/11/2023,Electronics,154,13.51,0,18,6,china-unionpay,Desktop,Bronze
+369,74,Male,02/02/2024,99,342,,157,14/02/2024,Toys,751,21.46,50,6,10,jcb,Desktop,Platinum
+370,29,Female,07/12/2021,60,414,,24,12/02/2024,Automotive,96,96.43,10,6,1,jcb,Mobile,Gold
+371,78,Female,28/08/2020,43,398,,28,12/09/2024,Electronics,947,74.0,28,1,2,visa-electron,Mobile,Bronze
+372,51,Male,03/05/2020,30,398,,241,06/05/2024,Clothing,367,11.22,39,14,10,bankcard,Desktop,Gold
+373,44,Male,11/01/2019,46,307,,145,26/11/2023,Toys,986,86.4,22,16,8,diners-club-us-ca,Mobile,Gold
+374,56,Male,11/03/2020,21,92,,248,09/03/2024,Sports & Outdoors,556,6.04,63,1,3,instapayment,Mobile,Bronze
+375,58,Male,01/07/2022,78,379,,122,02/04/2024,Toys,811,26.14,92,14,3,maestro,Mobile,Gold
+376,50,Male,03/08/2018,33,277,,217,25/10/2023,Automotive,238,40.53,35,10,2,jcb,Desktop,Gold
+377,75,Female,02/03/2024,76,362,,205,30/12/2023,Health,731,63.99,88,20,9,americanexpress,Mobile,Platinum
+378,91,Female,31/07/2022,36,386,,84,29/11/2023,Automotive,112,33.32,38,10,6,jcb,Desktop,Gold
+379,94,Female,18/04/2021,54,269,,237,21/04/2024,Electronics,289,39.17,65,1,1,diners-club-carte-blanche,Mobile,Platinum
+380,64,Male,20/01/2024,19,495,,121,01/04/2024,Books,519,44.49,56,9,3,china-unionpay,Desktop,Platinum
+381,28,Male,28/07/2018,31,459,,231,15/04/2024,Books,100,77.18,34,3,0,jcb,Desktop,Gold
+382,37,Male,05/12/2021,9,286,,57,12/04/2024,Sports & Outdoors,210,57.9,3,14,10,jcb,Desktop,Silver
+383,65,Male,26/09/2019,68,87,,209,22/01/2024,Beauty,62,49.5,83,5,8,bankcard,Mobile,Platinum
+384,89,Male,27/09/2020,17,196,,123,05/06/2024,Toys,939,81.71,27,14,2,jcb,Mobile,Bronze
+385,89,Female,10/09/2019,44,262,,309,17/08/2024,Pets,645,67.97,10,7,0,maestro,Mobile,Platinum
+386,39,Female,27/04/2024,100,417,,44,28/12/2023,Electronics,799,75.46,57,8,1,jcb,Desktop,Bronze
+387,74,Male,27/01/2023,23,72,,3,06/05/2024,Electronics,771,40.6,10,20,4,visa-electron,Mobile,Gold
+388,63,Female,17/09/2024,75,419,,145,30/03/2024,Toys,89,43.62,11,15,7,jcb,Desktop,Silver
+389,62,Female,21/04/2021,17,46,,164,05/02/2024,Beauty,828,17.62,70,1,10,jcb,Mobile,Gold
+390,41,Female,13/03/2020,82,385,,290,08/08/2024,Beauty,21,75.21,98,18,2,visa-electron,Desktop,Platinum
+391,68,Female,14/11/2021,74,492,,228,19/08/2024,Books,648,77.3,46,7,0,jcb,Desktop,Bronze
+392,73,Female,06/01/2022,78,450,,321,25/09/2023,Home & Kitchen,589,20.16,47,3,6,jcb,Mobile,Silver
+393,46,Female,29/01/2024,15,448,,128,10/07/2024,Electronics,258,90.97,15,12,10,switch,Mobile,Bronze
+394,44,Male,02/04/2020,18,358,,28,21/05/2024,Home & Kitchen,239,23.62,58,8,7,jcb,Mobile,Platinum
+395,28,Female,22/09/2022,91,253,,97,04/10/2023,Automotive,62,21.45,0,4,9,diners-club-enroute,Mobile,Bronze
+396,44,Female,17/09/2018,5,266,,119,03/06/2024,Clothing,491,13.74,78,2,7,visa-electron,Desktop,Bronze
+397,68,Female,20/06/2018,77,380,,271,19/12/2023,Pets,412,56.57,13,15,4,jcb,Desktop,Platinum
+398,28,Female,13/12/2022,49,274,,53,26/07/2024,Electronics,1013,0.11,68,0,3,jcb,Desktop,Gold
+399,52,Male,08/06/2022,63,165,,277,03/11/2023,Clothing,509,63.23,69,17,8,jcb,Mobile,Gold
+400,44,Female,12/07/2022,72,299,,32,09/12/2023,Health,223,27.14,20,15,0,visa,Desktop,Gold
+401,45,Male,11/12/2023,38,145,,254,18/06/2024,Beauty,370,55.74,1,12,8,diners-club-enroute,Mobile,Bronze
+402,47,Male,14/08/2024,30,495,,131,18/11/2023,Beauty,652,35.02,98,5,10,americanexpress,Mobile,Gold
+403,45,Male,02/03/2021,66,116,,181,08/12/2023,Clothing,36,0.81,94,8,0,jcb,Mobile,Bronze
+404,84,Female,04/02/2022,72,75,,273,31/01/2024,Health,820,64.83,34,18,6,jcb,Desktop,Platinum
+405,87,Male,19/01/2019,37,222,,325,15/01/2024,Toys,337,71.56,35,12,6,solo,Mobile,Gold
+406,33,Female,06/09/2023,26,63,,362,13/04/2024,Toys,283,90.58,96,9,2,jcb,Mobile,Bronze
+407,43,Female,23/04/2023,68,12,,297,09/03/2024,Electronics,607,19.64,60,2,4,mastercard,Mobile,Silver
+408,94,Female,13/04/2018,43,412,,282,12/11/2023,Beauty,770,39.5,40,11,1,jcb,Desktop,Bronze
+409,23,Female,12/02/2021,97,34,,245,10/12/2023,Home & Kitchen,750,23.9,61,5,1,visa-electron,Desktop,Gold
+410,54,Female,29/12/2021,42,372,,33,25/12/2023,Health,743,11.57,81,12,0,visa-electron,Desktop,Bronze
+411,43,Female,01/02/2020,72,349,,357,19/01/2024,Automotive,310,59.53,35,8,2,jcb,Desktop,Bronze
+412,19,Female,11/05/2023,70,366,,311,26/07/2024,Sports & Outdoors,521,49.32,71,3,9,jcb,Mobile,Gold
+413,44,Male,15/09/2021,14,90,,162,05/12/2023,Beauty,829,35.76,56,20,10,americanexpress,Mobile,Silver
+414,90,Female,10/11/2022,95,381,,72,01/01/2024,Beauty,4,11.97,43,0,3,visa,Desktop,Gold
+415,92,Male,05/03/2020,31,73,,212,12/06/2024,Beauty,697,27.52,88,20,8,bankcard,Desktop,Silver
+416,49,Male,17/06/2020,62,78,,42,20/05/2024,Electronics,401,45.22,98,12,5,diners-club-us-ca,Mobile,Gold
+417,82,Female,09/05/2021,70,33,,218,15/12/2023,Health,326,72.99,27,14,4,jcb,Desktop,Platinum
+418,22,Female,30/05/2019,95,221,,116,02/05/2024,Sports & Outdoors,653,45.29,1,11,9,jcb,Desktop,Silver
+419,92,Female,16/05/2019,4,429,,132,08/01/2024,Toys,533,3.75,23,20,8,jcb,Mobile,Gold
+420,26,Male,15/06/2024,86,43,,259,15/06/2024,Home & Kitchen,485,78.8,6,4,2,jcb,Mobile,Gold
+421,89,Female,09/08/2022,30,220,,123,27/08/2024,Health,593,87.14,78,18,9,diners-club-enroute,Mobile,Gold
+422,45,Male,07/05/2021,52,358,,316,24/11/2023,Health,37,35.82,87,8,9,visa-electron,Mobile,Silver
+423,88,Female,11/11/2018,55,184,,5,19/09/2023,Health,553,9.66,57,18,0,laser,Desktop,Bronze
+424,87,Female,18/11/2018,68,395,,3,27/12/2023,Automotive,220,57.49,76,18,0,mastercard,Desktop,Bronze
+425,25,Female,13/11/2022,87,138,,312,02/12/2023,Automotive,548,90.34,25,6,9,americanexpress,Desktop,Bronze
+426,19,Male,05/05/2019,16,150,,11,09/08/2024,Beauty,34,88.94,35,18,3,jcb,Desktop,Gold
+427,52,Male,23/04/2022,58,47,,220,25/01/2024,Health,829,1.83,28,9,1,diners-club-us-ca,Mobile,Silver
+428,26,Female,26/09/2021,77,343,,111,08/03/2024,Home & Kitchen,447,26.56,81,5,8,maestro,Desktop,Gold
+429,62,Female,21/07/2024,35,436,,258,22/10/2023,Beauty,45,21.23,34,15,3,maestro,Desktop,Gold
+430,83,Male,20/06/2018,85,153,,328,19/11/2023,Pets,875,74.65,91,20,4,americanexpress,Desktop,Gold
+431,39,Male,30/03/2018,19,11,,3,03/04/2024,Beauty,610,50.74,47,2,8,americanexpress,Mobile,Platinum
+432,60,Male,26/03/2021,10,424,,109,23/04/2024,Books,499,78.05,62,7,9,jcb,Desktop,Bronze
+433,53,Male,11/10/2023,83,451,,309,25/09/2023,Pets,136,29.59,67,6,10,diners-club-us-ca,Mobile,Silver
+434,71,Female,12/04/2021,34,91,,356,18/08/2024,Beauty,592,10.31,88,13,4,jcb,Desktop,Bronze
+435,55,Male,21/07/2018,55,179,,351,07/01/2024,Clothing,1006,87.62,29,1,10,switch,Desktop,Gold
+436,76,Female,05/10/2023,27,464,,86,06/03/2024,Pets,372,78.92,9,3,8,maestro,Desktop,Silver
+437,50,Female,29/08/2021,70,332,,77,29/12/2023,Electronics,360,82.6,36,1,8,maestro,Desktop,Silver
+438,94,Male,30/01/2024,52,474,,306,08/09/2024,Home & Kitchen,804,24.1,6,13,10,jcb,Mobile,Silver
+439,25,Female,13/03/2021,77,200,,352,01/12/2023,Automotive,741,8.48,38,14,4,jcb,Mobile,Silver
+440,74,Male,14/05/2018,30,334,,234,04/09/2024,Books,180,36.61,6,12,10,mastercard,Desktop,Platinum
+441,65,Male,22/03/2020,74,493,,204,22/05/2024,Clothing,951,54.91,49,19,10,maestro,Mobile,Silver
+442,94,Male,14/11/2018,49,356,,100,18/05/2024,Health,977,29.26,99,6,7,jcb,Mobile,Platinum
+443,63,Female,29/08/2023,31,412,,266,23/12/2023,Health,669,56.76,71,16,10,jcb,Mobile,Platinum
+444,92,Female,24/09/2020,32,241,,199,19/10/2023,Clothing,1007,5.8,27,10,0,jcb,Desktop,Gold
+445,61,Female,02/08/2018,37,101,,155,30/10/2023,Clothing,551,98.17,97,6,8,jcb,Desktop,Platinum
+446,75,Female,20/11/2018,44,325,,332,16/09/2024,Beauty,964,13.64,74,5,1,jcb,Desktop,Gold
+447,50,Male,15/11/2020,9,48,,49,13/06/2024,Electronics,757,22.17,57,9,1,mastercard,Mobile,Silver
+448,47,Male,03/01/2024,83,332,,13,17/04/2024,Electronics,223,45.71,75,7,2,jcb,Mobile,Bronze
+449,65,Female,08/11/2019,18,176,,57,08/11/2023,Electronics,663,31.84,19,15,2,jcb,Mobile,Bronze
+450,78,Male,25/03/2023,75,160,,144,01/09/2024,Beauty,492,71.28,59,11,5,jcb,Mobile,Silver
+451,18,Male,21/01/2023,95,260,,197,30/10/2023,Toys,219,95.88,66,9,6,visa-electron,Mobile,Platinum
+452,23,Male,09/07/2023,49,132,,267,10/03/2024,Electronics,588,1.87,11,14,3,americanexpress,Desktop,Gold
+453,41,Female,18/01/2023,17,314,,237,10/10/2023,Pets,727,51.13,36,11,1,visa,Mobile,Bronze
+454,41,Female,23/09/2021,56,127,,170,11/12/2023,Beauty,1006,1.16,89,10,2,laser,Desktop,Gold
+455,61,Female,22/03/2018,16,302,,269,24/03/2024,Home & Kitchen,716,62.47,98,12,5,jcb,Desktop,Silver
+456,89,Male,10/07/2022,52,136,,126,19/03/2024,Automotive,673,9.45,6,6,4,mastercard,Desktop,Silver
+457,91,Female,01/02/2021,52,436,,271,11/03/2024,Health,248,16.07,35,4,7,maestro,Mobile,Gold
+458,69,Female,14/02/2023,88,60,,277,19/04/2024,Books,978,53.82,53,3,9,jcb,Desktop,Gold
+459,58,Female,31/10/2018,34,144,,117,13/03/2024,Clothing,228,6.72,59,13,4,jcb,Mobile,Gold
+460,37,Male,04/04/2021,89,18,,175,02/10/2023,Pets,550,59.9,61,15,3,jcb,Mobile,Bronze
+461,61,Female,22/11/2019,25,293,,189,23/09/2023,Automotive,285,78.48,69,14,9,jcb,Desktop,Silver
+462,64,Female,05/05/2020,23,52,,239,18/09/2023,Beauty,911,70.24,7,15,0,china-unionpay,Desktop,Silver
+463,39,Female,18/06/2023,4,157,,197,25/10/2023,Health,274,77.99,26,15,8,jcb,Desktop,Bronze
+464,65,Female,29/11/2020,81,80,,215,28/07/2024,Toys,704,36.5,58,15,7,jcb,Mobile,Gold
+465,68,Female,17/09/2020,26,322,,37,16/12/2023,Home & Kitchen,86,27.67,9,14,4,jcb,Desktop,Bronze
+466,60,Female,24/06/2019,98,125,,157,19/02/2024,Clothing,661,77.51,24,6,1,visa-electron,Desktop,Silver
+467,43,Male,25/08/2019,29,491,,291,26/01/2024,Automotive,904,12.66,63,1,8,jcb,Mobile,Silver
+468,90,Female,29/10/2022,67,141,,3,27/09/2023,Pets,882,16.95,23,9,6,laser,Mobile,Platinum
+469,78,Female,25/04/2024,17,202,,124,28/08/2024,Pets,149,60.19,68,4,0,diners-club-us-ca,Desktop,Bronze
+470,21,Male,04/07/2020,24,273,,75,15/03/2024,Home & Kitchen,539,24.92,35,19,3,china-unionpay,Mobile,Platinum
+471,29,Male,24/04/2021,38,92,,326,02/01/2024,Toys,558,75.44,14,9,0,mastercard,Mobile,Bronze
+472,41,Male,25/02/2018,87,314,,214,15/06/2024,Beauty,90,58.62,46,17,6,jcb,Desktop,Gold
+473,33,Male,21/10/2023,74,141,,328,03/08/2024,Automotive,12,37.93,97,17,6,jcb,Desktop,Silver
+474,28,Female,03/02/2024,27,472,,198,18/09/2023,Health,161,11.35,72,13,1,mastercard,Mobile,Platinum
+475,68,Female,06/03/2019,40,121,,146,10/08/2024,Health,353,79.11,16,7,9,maestro,Mobile,Gold
+476,18,Female,15/02/2023,88,342,,254,15/06/2024,Pets,310,52.27,54,9,9,jcb,Mobile,Bronze
+477,93,Male,19/10/2018,3,31,,109,21/07/2024,Automotive,1027,69.2,56,19,6,mastercard,Desktop,Gold
+478,62,Male,23/07/2022,85,405,,181,18/05/2024,Toys,297,16.19,23,3,8,jcb,Desktop,Bronze
+479,70,Female,25/02/2018,11,24,,4,11/10/2023,Health,190,31.08,65,12,7,jcb,Mobile,Gold
+480,81,Male,02/09/2020,100,459,,182,09/07/2024,Clothing,316,38.48,89,17,1,bankcard,Mobile,Silver
+481,34,Male,04/12/2022,62,43,,64,25/05/2024,Pets,939,35.25,94,3,3,diners-club-carte-blanche,Desktop,Bronze
+482,22,Male,10/06/2022,23,30,,237,07/04/2024,Home & Kitchen,445,74.38,5,20,4,bankcard,Desktop,Platinum
+483,28,Female,10/10/2018,33,326,,78,12/07/2024,Books,963,91.92,76,9,7,bankcard,Mobile,Bronze
+484,92,Male,27/07/2022,33,16,,128,31/10/2023,Books,141,9.68,62,20,10,jcb,Mobile,Silver
+485,47,Male,25/05/2021,16,187,,81,21/01/2024,Home & Kitchen,659,79.82,63,4,10,china-unionpay,Mobile,Platinum
+486,91,Male,22/06/2020,27,485,,188,09/04/2024,Health,688,77.11,61,18,8,china-unionpay,Mobile,Platinum
+487,35,Female,20/08/2020,3,282,,169,10/05/2024,Home & Kitchen,410,96.49,61,2,5,americanexpress,Desktop,Gold
+488,65,Female,18/05/2018,57,76,,235,05/09/2024,Pets,393,0.76,83,7,0,americanexpress,Desktop,Gold
+489,25,Male,01/09/2018,80,307,,177,09/01/2024,Home & Kitchen,373,62.92,63,13,0,jcb,Mobile,Bronze
+490,56,Female,10/10/2018,67,158,,62,08/06/2024,Home & Kitchen,881,51.35,48,14,8,jcb,Desktop,Bronze
+491,75,Male,23/01/2022,55,471,,122,03/06/2024,Sports & Outdoors,478,84.06,74,14,4,jcb,Mobile,Gold
+492,46,Male,30/06/2018,83,10,,264,07/06/2024,Home & Kitchen,526,33.14,42,15,10,jcb,Desktop,Silver
+493,43,Female,05/06/2018,41,138,,161,26/05/2024,Clothing,294,42.5,13,8,5,jcb,Desktop,Gold
+494,49,Male,17/09/2018,2,376,,206,26/12/2023,Sports & Outdoors,432,25.5,87,7,0,visa-electron,Mobile,Silver
+495,92,Female,29/04/2021,59,97,,39,03/11/2023,Clothing,48,71.23,25,1,0,instapayment,Desktop,Gold
+496,84,Female,27/02/2019,16,44,,251,17/11/2023,Sports & Outdoors,706,70.02,63,11,6,mastercard,Mobile,Bronze
+497,63,Female,31/01/2024,27,475,,284,25/11/2023,Health,524,54.6,74,14,10,jcb,Mobile,Bronze
+498,94,Male,08/05/2021,42,455,,349,07/05/2024,Clothing,107,1.39,28,18,6,americanexpress,Mobile,Bronze
+499,63,Male,28/01/2019,83,242,,305,21/06/2024,Books,421,57.91,5,11,0,visa,Mobile,Gold
+500,32,Female,27/12/2018,42,108,,346,03/03/2024,Clothing,917,94.99,0,1,3,jcb,Mobile,Bronze
+501,88,Male,22/07/2020,79,339,,254,25/12/2023,Pets,378,61.53,12,3,8,americanexpress,Mobile,Gold
+502,40,Male,02/01/2021,85,122,,170,28/12/2023,Beauty,1015,36.59,76,11,10,jcb,Mobile,Platinum
+503,25,Female,12/06/2020,24,455,,265,26/05/2024,Sports & Outdoors,585,91.45,16,7,2,mastercard,Desktop,Silver
+504,77,Male,20/12/2021,61,291,,292,17/02/2024,Pets,769,85.59,40,4,10,jcb,Desktop,Bronze
+505,82,Male,20/10/2021,91,450,,353,30/08/2024,Pets,37,37.78,22,1,9,americanexpress,Desktop,Platinum
+506,23,Male,02/02/2023,57,103,,88,02/03/2024,Home & Kitchen,245,63.24,12,12,5,jcb,Desktop,Silver
+507,92,Female,08/01/2023,94,329,,205,21/09/2023,Books,310,76.2,19,2,0,laser,Mobile,Bronze
+508,89,Female,23/12/2023,47,316,,191,19/04/2024,Health,455,56.18,6,11,9,jcb,Mobile,Silver
+509,87,Male,27/01/2020,34,148,,165,21/05/2024,Beauty,12,39.11,82,11,3,visa,Mobile,Bronze
+510,52,Female,08/09/2024,47,456,,148,06/11/2023,Sports & Outdoors,271,4.14,51,12,7,mastercard,Desktop,Silver
+511,68,Female,01/06/2020,40,166,,266,15/05/2024,Electronics,328,22.54,46,11,2,jcb,Desktop,Bronze
+512,72,Male,09/01/2024,7,117,,347,11/08/2024,Electronics,537,24.26,93,18,7,diners-club-carte-blanche,Mobile,Gold
+513,18,Male,10/04/2023,1,225,,95,17/08/2024,Home & Kitchen,34,57.73,61,18,9,diners-club-us-ca,Desktop,Bronze
+514,71,Male,19/06/2020,80,76,,157,14/10/2023,Electronics,477,85.34,40,3,1,switch,Mobile,Gold
+515,69,Male,07/07/2024,1,138,,226,02/06/2024,Toys,542,56.78,26,1,10,bankcard,Mobile,Silver
+516,30,Male,21/05/2023,50,68,,280,16/09/2024,Sports & Outdoors,115,23.16,41,11,4,jcb,Mobile,Silver
+517,75,Male,28/10/2022,20,398,,163,20/12/2023,Home & Kitchen,1016,79.77,19,11,8,jcb,Mobile,Bronze
+518,39,Female,08/03/2021,45,282,,191,08/02/2024,Electronics,896,2.12,3,12,2,jcb,Desktop,Platinum
+519,25,Female,05/03/2024,16,162,,152,18/01/2024,Electronics,946,98.61,0,1,8,jcb,Desktop,Gold
+520,92,Male,06/11/2023,48,313,,244,06/04/2024,Health,307,30.96,32,5,3,diners-club-enroute,Desktop,Bronze
+521,85,Male,28/02/2019,4,388,,252,12/04/2024,Beauty,506,20.31,27,16,1,jcb,Mobile,Gold
+522,53,Female,04/08/2020,72,27,,348,24/02/2024,Pets,444,98.47,95,17,10,solo,Desktop,Platinum
+523,65,Male,12/02/2020,89,384,,197,14/10/2023,Home & Kitchen,308,76.98,28,13,7,maestro,Desktop,Platinum
+524,30,Female,09/12/2022,55,196,,163,11/01/2024,Sports & Outdoors,399,46.53,64,12,8,jcb,Mobile,Gold
+525,71,Female,08/04/2024,75,161,,198,26/08/2024,Health,892,64.41,92,0,7,solo,Desktop,Gold
+526,21,Male,09/04/2023,20,11,,345,23/04/2024,Clothing,139,93.53,63,18,2,mastercard,Desktop,Bronze
+527,70,Male,12/03/2022,78,263,,153,28/07/2024,Clothing,327,6.96,34,12,5,jcb,Desktop,Platinum
+528,48,Male,24/08/2021,32,23,,70,14/01/2024,Toys,1027,67.39,24,9,0,china-unionpay,Desktop,Silver
+529,53,Male,31/03/2020,72,262,,107,15/04/2024,Beauty,970,30.46,3,14,7,diners-club-carte-blanche,Desktop,Gold
+530,31,Female,22/07/2019,2,413,,106,13/03/2024,Pets,77,44.45,83,17,0,jcb,Mobile,Bronze
+531,84,Male,04/03/2018,100,85,,346,30/11/2023,Beauty,574,33.99,66,2,8,diners-club-us-ca,Desktop,Platinum
+532,33,Male,18/05/2018,84,252,,111,19/08/2024,Clothing,382,80.61,28,20,6,visa-electron,Desktop,Bronze
+533,88,Female,01/10/2022,80,177,,268,31/12/2023,Pets,13,14.47,23,14,4,diners-club-enroute,Mobile,Platinum
+534,34,Female,02/04/2019,17,316,,107,09/05/2024,Toys,804,32.95,26,6,0,maestro,Desktop,Platinum
+535,95,Female,09/03/2023,79,351,,120,25/06/2024,Sports & Outdoors,631,53.01,97,11,1,mastercard,Mobile,Silver
+536,25,Male,14/07/2020,47,481,,28,29/05/2024,Books,863,51.55,14,16,4,jcb,Desktop,Platinum
+537,49,Female,25/10/2020,88,202,,159,11/07/2024,Beauty,62,56.83,60,1,2,diners-club-carte-blanche,Mobile,Silver
+538,36,Female,15/02/2019,9,498,,210,13/12/2023,Clothing,812,65.56,65,8,2,jcb,Desktop,Gold
+539,48,Male,13/08/2018,33,354,,360,20/10/2023,Automotive,217,20.97,6,3,5,jcb,Mobile,Platinum
+540,64,Male,11/04/2019,84,297,,70,26/05/2024,Pets,911,75.31,60,12,9,switch,Desktop,Silver
+541,24,Female,30/07/2020,92,297,,51,24/01/2024,Automotive,43,84.65,84,6,2,jcb,Desktop,Gold
+542,66,Male,24/06/2018,1,72,,304,14/05/2024,Home & Kitchen,487,10.43,47,8,0,jcb,Desktop,Gold
+543,60,Male,18/09/2022,68,37,,88,19/01/2024,Health,391,22.65,80,3,8,diners-club-enroute,Desktop,Bronze
+544,54,Female,08/08/2024,61,442,,87,11/06/2024,Sports & Outdoors,207,53.88,83,1,6,maestro,Mobile,Bronze
+545,26,Female,02/11/2021,53,124,,1,31/07/2024,Books,251,59.08,85,9,9,jcb,Mobile,Platinum
+546,63,Female,07/01/2021,71,339,,312,24/12/2023,Home & Kitchen,125,6.63,5,19,4,diners-club-us-ca,Mobile,Gold
+547,37,Female,09/07/2019,79,344,,127,30/12/2023,Beauty,621,13.47,32,3,0,instapayment,Desktop,Silver
+548,83,Female,22/03/2023,19,339,,21,15/06/2024,Pets,324,81.07,57,16,4,instapayment,Mobile,Gold
+549,31,Male,06/07/2021,90,262,,281,27/09/2023,Health,1004,48.97,30,8,9,laser,Mobile,Platinum
+550,21,Male,08/12/2018,40,105,,31,20/12/2023,Pets,327,19.08,37,3,10,laser,Desktop,Bronze
+551,58,Female,09/05/2023,78,448,,197,20/12/2023,Pets,511,70.44,82,12,1,jcb,Mobile,Gold
+552,53,Male,06/10/2019,51,379,,230,10/06/2024,Beauty,307,61.68,70,13,1,jcb,Desktop,Platinum
+553,85,Female,02/10/2019,2,274,,197,22/07/2024,Toys,809,54.29,14,4,5,china-unionpay,Mobile,Bronze
+554,74,Female,28/11/2020,69,412,,256,29/11/2023,Books,131,86.99,36,16,10,jcb,Desktop,Gold
+555,45,Female,26/08/2024,37,417,,114,15/01/2024,Automotive,462,4.34,46,13,5,americanexpress,Desktop,Platinum
+556,83,Male,15/04/2019,67,17,,210,27/12/2023,Beauty,116,67.51,59,2,9,jcb,Mobile,Silver
+557,84,Male,29/10/2022,67,26,,159,21/09/2023,Pets,549,2.36,42,12,1,jcb,Mobile,Bronze
+558,56,Female,16/12/2018,55,173,,324,25/07/2024,Home & Kitchen,127,26.74,96,7,8,visa-electron,Mobile,Silver
+559,64,Female,29/11/2020,12,463,,44,13/02/2024,Pets,643,14.13,37,13,7,jcb,Desktop,Gold
+560,45,Male,04/06/2020,82,154,,35,01/02/2024,Sports & Outdoors,955,20.69,87,13,9,maestro,Mobile,Platinum
+561,30,Female,18/07/2022,30,294,,250,02/09/2024,Toys,1013,34.13,4,11,10,jcb,Mobile,Bronze
+562,19,Male,08/12/2020,75,324,,188,25/12/2023,Books,617,18.69,94,2,10,jcb,Mobile,Silver
+563,70,Male,16/09/2018,1,213,,19,29/12/2023,Toys,3,63.33,64,10,5,mastercard,Mobile,Bronze
+564,41,Male,07/09/2018,95,70,,196,05/07/2024,Automotive,770,33.04,80,11,3,visa-electron,Mobile,Silver
+565,89,Male,21/08/2019,79,306,,261,21/02/2024,Automotive,906,98.53,70,17,6,jcb,Mobile,Platinum
+566,23,Female,24/12/2023,19,24,,23,05/10/2023,Automotive,641,44.45,71,2,6,visa,Mobile,Platinum
+567,69,Male,23/12/2020,13,499,,218,27/02/2024,Home & Kitchen,189,83.02,85,12,5,diners-club-enroute,Mobile,Silver
+568,72,Male,29/03/2020,9,459,,321,12/11/2023,Toys,777,34.72,23,0,5,solo,Desktop,Gold
+569,93,Male,04/01/2019,81,179,,18,24/02/2024,Sports & Outdoors,103,39.92,29,0,3,switch,Desktop,Platinum
+570,44,Male,16/07/2018,90,468,,111,26/07/2024,Books,381,29.39,99,15,0,jcb,Desktop,Silver
+571,91,Male,15/08/2024,51,267,,120,13/02/2024,Home & Kitchen,285,58.06,61,1,5,visa-electron,Desktop,Platinum
+572,54,Female,01/06/2022,47,92,,258,11/09/2024,Automotive,477,93.33,8,6,0,mastercard,Mobile,Gold
+573,63,Female,13/07/2019,39,50,,329,11/08/2024,Electronics,385,39.37,50,11,4,americanexpress,Mobile,Platinum
+574,85,Female,30/08/2022,91,94,,339,25/10/2023,Health,929,18.28,53,14,5,jcb,Desktop,Gold
+575,91,Male,06/02/2021,43,413,,201,19/05/2024,Toys,923,64.53,83,7,10,switch,Desktop,Silver
+576,68,Male,09/06/2019,78,371,,156,08/02/2024,Electronics,641,96.35,41,13,7,jcb,Mobile,Bronze
+577,75,Male,22/02/2024,76,63,,328,12/12/2023,Clothing,633,26.04,16,15,5,visa-electron,Desktop,Platinum
+578,32,Female,16/01/2019,60,197,,175,07/01/2024,Electronics,770,84.42,44,11,2,jcb,Mobile,Bronze
+579,77,Female,20/07/2023,94,34,,294,09/07/2024,Beauty,522,43.23,55,16,7,jcb,Mobile,Platinum
+580,39,Male,05/12/2020,76,92,,154,07/08/2024,Pets,695,70.14,91,13,3,switch,Mobile,Gold
+581,18,Female,08/10/2020,86,347,,52,21/03/2024,Health,151,44.68,31,1,0,mastercard,Desktop,Platinum
+582,69,Female,29/12/2021,44,335,,292,08/03/2024,Automotive,864,40.75,79,0,1,diners-club-us-ca,Mobile,Silver
+583,76,Male,24/11/2022,93,114,,175,27/09/2023,Automotive,671,23.98,63,17,7,jcb,Mobile,Silver
+584,37,Male,24/04/2024,78,233,,266,19/10/2023,Health,328,46.08,44,7,8,instapayment,Desktop,Platinum
+585,40,Male,19/05/2023,91,345,,316,16/02/2024,Pets,31,80.14,13,6,10,diners-club-carte-blanche,Desktop,Bronze
+586,71,Female,05/03/2021,35,326,,211,19/10/2023,Automotive,321,70.28,6,7,0,visa-electron,Mobile,Bronze
+587,76,Female,17/05/2023,59,348,,337,11/02/2024,Toys,595,24.28,50,0,1,jcb,Desktop,Platinum
+588,93,Female,05/07/2020,97,122,,170,09/08/2024,Books,406,51.07,45,4,6,diners-club-carte-blanche,Desktop,Silver
+589,87,Male,30/08/2021,8,376,,52,13/07/2024,Pets,807,9.23,87,5,4,switch,Mobile,Gold
+590,20,Female,11/09/2023,45,330,,209,07/07/2024,Books,634,43.98,52,8,4,laser,Mobile,Silver
+591,77,Female,19/06/2020,88,491,,261,29/07/2024,Books,848,40.43,57,14,3,americanexpress,Mobile,Silver
+592,30,Female,26/04/2019,48,379,,190,21/05/2024,Electronics,135,19.29,7,14,4,switch,Desktop,Gold
+593,82,Female,27/10/2022,80,494,,364,03/04/2024,Automotive,286,23.65,47,13,3,switch,Desktop,Platinum
+594,19,Female,21/05/2019,45,380,,198,31/12/2023,Automotive,205,90.02,40,18,8,mastercard,Desktop,Silver
+595,74,Male,07/05/2019,81,140,,228,17/02/2024,Beauty,5,31.38,97,6,6,americanexpress,Desktop,Bronze
+596,91,Male,19/12/2020,76,287,,349,22/09/2023,Sports & Outdoors,268,56.85,49,4,3,instapayment,Desktop,Bronze
+597,94,Male,18/12/2022,91,290,,244,05/02/2024,Clothing,770,31.1,89,6,8,diners-club-enroute,Mobile,Bronze
+598,84,Male,01/04/2020,12,445,,141,04/11/2023,Sports & Outdoors,463,4.93,30,0,0,jcb,Desktop,Silver
+599,36,Female,14/10/2018,62,99,,343,05/03/2024,Books,937,0.15,88,14,0,jcb,Desktop,Silver
+600,37,Female,29/09/2022,78,73,,63,12/12/2023,Sports & Outdoors,267,83.13,92,3,9,jcb,Mobile,Gold
+601,53,Male,16/09/2023,65,367,,129,03/01/2024,Books,120,10.03,56,8,1,diners-club-carte-blanche,Desktop,Platinum
+602,49,Female,06/03/2020,47,45,,212,20/05/2024,Sports & Outdoors,2,53.08,83,7,9,china-unionpay,Desktop,Bronze
+603,36,Male,28/07/2024,72,249,,206,12/02/2024,Home & Kitchen,834,3.25,83,15,2,jcb,Desktop,Gold
+604,22,Female,08/12/2019,59,105,,82,11/03/2024,Automotive,1010,22.79,11,0,10,laser,Mobile,Platinum
+605,38,Male,01/10/2018,13,226,,85,11/03/2024,Electronics,533,87.49,93,19,10,jcb,Mobile,Platinum
+606,72,Female,15/06/2019,89,435,,168,14/01/2024,Electronics,262,48.11,19,20,1,diners-club-carte-blanche,Desktop,Gold
+607,75,Male,26/11/2020,26,391,,251,18/04/2024,Clothing,326,6.84,39,4,9,mastercard,Desktop,Gold
+608,36,Female,28/04/2020,57,175,,56,11/08/2024,Books,56,44.05,26,7,5,jcb,Desktop,Gold
+609,24,Male,02/01/2021,11,80,,53,02/07/2024,Electronics,861,43.89,51,6,5,jcb,Desktop,Gold
+610,76,Female,20/04/2019,13,136,,73,09/06/2024,Clothing,794,30.0,40,0,7,jcb,Desktop,Gold
+611,78,Male,15/05/2024,22,311,,126,10/09/2024,Home & Kitchen,484,1.32,40,11,0,china-unionpay,Desktop,Silver
+612,86,Male,23/03/2023,21,276,,354,03/02/2024,Toys,54,53.77,31,20,3,jcb,Mobile,Platinum
+613,45,Male,07/05/2024,31,424,,99,16/09/2024,Home & Kitchen,997,65.72,55,12,7,jcb,Mobile,Silver
+614,88,Female,29/10/2018,47,360,,33,30/10/2023,Sports & Outdoors,994,51.63,66,5,3,visa,Mobile,Bronze
+615,57,Female,22/09/2023,37,360,,303,10/06/2024,Health,1013,83.68,83,19,3,switch,Mobile,Platinum
+616,34,Male,12/03/2021,1,353,,112,19/10/2023,Pets,136,41.56,76,9,7,maestro,Desktop,Platinum
+617,75,Female,18/06/2024,56,40,,133,08/11/2023,Pets,434,3.34,69,6,10,jcb,Desktop,Silver
+618,20,Female,16/09/2019,20,333,,68,31/07/2024,Books,900,42.88,45,0,8,maestro,Desktop,Platinum
+619,18,Female,21/09/2020,98,334,,188,16/12/2023,Automotive,1001,72.2,83,17,6,jcb,Desktop,Gold
+620,95,Female,15/01/2023,65,92,,43,13/10/2023,Sports & Outdoors,625,58.01,62,3,5,jcb,Mobile,Silver
+621,77,Female,24/03/2018,1,160,,25,11/04/2024,Beauty,128,20.5,83,8,8,jcb,Desktop,Platinum
+622,93,Female,18/03/2022,57,144,,227,26/06/2024,Beauty,869,90.63,5,13,9,mastercard,Desktop,Silver
+623,66,Female,31/08/2019,79,391,,44,19/10/2023,Home & Kitchen,451,91.23,55,4,5,diners-club-enroute,Mobile,Gold
+624,85,Male,27/11/2023,52,189,,160,27/11/2023,Toys,183,63.53,73,20,0,jcb,Mobile,Bronze
+625,67,Male,10/01/2020,44,290,,75,13/09/2024,Electronics,493,81.08,47,6,6,laser,Mobile,Bronze
+626,64,Female,10/11/2018,10,20,,146,21/07/2024,Electronics,112,40.99,62,15,7,maestro,Desktop,Silver
+627,81,Male,27/05/2022,28,103,,316,29/04/2024,Sports & Outdoors,548,85.74,12,14,8,jcb,Mobile,Gold
+628,90,Male,03/05/2020,91,89,,8,20/03/2024,Home & Kitchen,550,98.09,31,16,1,diners-club-carte-blanche,Desktop,Gold
+629,36,Male,21/09/2018,14,10,,162,27/05/2024,Books,739,69.38,88,17,6,jcb,Mobile,Platinum
+630,65,Male,13/12/2022,39,152,,261,05/07/2024,Clothing,704,49.0,48,17,8,diners-club-enroute,Mobile,Silver
+631,69,Male,25/08/2023,11,237,,87,13/05/2024,Toys,79,92.52,53,5,8,laser,Desktop,Gold
+632,41,Male,05/04/2022,12,185,,1,13/03/2024,Automotive,990,52.51,31,6,9,jcb,Mobile,Bronze
+633,49,Female,03/10/2022,57,142,,64,05/03/2024,Home & Kitchen,642,84.26,42,12,2,diners-club-carte-blanche,Desktop,Gold
+634,41,Male,27/03/2019,99,55,,45,29/12/2023,Toys,1001,34.39,76,1,8,mastercard,Mobile,Platinum
+635,73,Male,02/03/2018,16,131,,33,08/10/2023,Books,527,69.39,45,2,9,visa-electron,Desktop,Bronze
+636,78,Male,30/03/2018,7,212,,219,18/09/2023,Electronics,989,14.77,35,12,8,jcb,Desktop,Platinum
+637,81,Male,31/08/2019,42,258,,136,26/05/2024,Automotive,228,6.3,35,0,3,diners-club-carte-blanche,Desktop,Bronze
+638,86,Male,08/12/2020,83,432,,98,24/06/2024,Sports & Outdoors,502,17.85,15,6,10,jcb,Mobile,Silver
+639,86,Male,17/05/2022,65,122,,161,18/06/2024,Toys,438,58.99,18,13,9,jcb,Desktop,Silver
+640,72,Male,25/01/2022,95,148,,190,29/10/2023,Health,606,27.17,33,19,6,switch,Desktop,Bronze
+641,24,Female,17/12/2022,54,73,,60,19/07/2024,Clothing,410,17.36,93,2,2,jcb,Desktop,Platinum
+642,55,Male,24/11/2019,27,236,,290,06/02/2024,Sports & Outdoors,392,78.75,51,2,9,laser,Mobile,Bronze
+643,78,Male,11/05/2020,7,405,,169,30/07/2024,Books,200,11.38,79,8,5,jcb,Mobile,Platinum
+644,23,Female,23/10/2020,98,400,,2,17/04/2024,Pets,625,54.93,23,14,10,jcb,Desktop,Silver
+645,62,Male,23/02/2018,63,347,,157,12/01/2024,Pets,476,26.87,95,9,9,laser,Mobile,Bronze
+646,46,Male,04/04/2024,14,118,,51,24/08/2024,Books,991,41.58,46,3,9,jcb,Desktop,Platinum
+647,48,Male,01/08/2021,33,239,,227,11/03/2024,Sports & Outdoors,823,11.54,83,3,0,switch,Desktop,Gold
+648,32,Male,01/03/2019,16,38,,271,20/06/2024,Health,240,20.49,59,1,1,diners-club-enroute,Mobile,Bronze
+649,45,Male,13/04/2024,38,269,,112,23/03/2024,Automotive,681,33.51,43,14,5,diners-club-carte-blanche,Desktop,Bronze
+650,80,Female,17/05/2018,67,81,,291,05/08/2024,Books,639,30.75,83,7,9,jcb,Desktop,Bronze
+651,67,Female,03/04/2022,8,182,,148,09/09/2024,Automotive,886,57.28,49,13,4,jcb,Desktop,Platinum
+652,21,Male,27/03/2021,53,123,,38,03/06/2024,Pets,178,8.26,51,0,8,china-unionpay,Desktop,Platinum
+653,94,Female,21/02/2019,57,254,,110,25/05/2024,Pets,380,82.28,39,14,9,solo,Desktop,Gold
+654,36,Female,30/03/2021,88,12,,134,10/08/2024,Toys,750,68.12,1,7,10,mastercard,Mobile,Bronze
+655,26,Male,16/09/2022,56,122,,231,20/06/2024,Sports & Outdoors,351,12.42,89,12,8,diners-club-enroute,Mobile,Silver
+656,62,Female,28/11/2019,7,105,,44,07/03/2024,Electronics,4,80.96,93,11,9,visa,Mobile,Platinum
+657,40,Male,01/09/2019,25,191,,30,04/10/2023,Books,353,86.86,57,20,5,jcb,Desktop,Bronze
+658,77,Female,20/06/2021,6,159,,326,15/07/2024,Home & Kitchen,99,11.59,57,0,1,jcb,Desktop,Gold
+659,63,Male,12/11/2020,68,94,,234,01/06/2024,Automotive,694,80.15,49,10,5,maestro,Desktop,Silver
+660,80,Male,06/06/2019,10,27,,305,25/01/2024,Beauty,425,45.02,58,3,8,maestro,Mobile,Platinum
+661,51,Male,22/01/2019,90,158,,92,08/10/2023,Beauty,421,59.18,71,16,0,jcb,Desktop,Silver
+662,77,Female,20/03/2020,91,330,,128,24/08/2024,Home & Kitchen,774,56.7,16,18,7,jcb,Desktop,Silver
+663,71,Female,08/02/2023,11,500,,274,05/03/2024,Sports & Outdoors,386,58.94,51,5,5,jcb,Desktop,Platinum
+664,73,Female,01/05/2023,60,112,,212,25/01/2024,Clothing,284,12.63,72,4,2,switch,Desktop,Platinum
+665,69,Male,14/11/2023,29,197,,230,24/12/2023,Clothing,516,91.5,6,13,8,diners-club-carte-blanche,Desktop,Silver
+666,31,Male,13/06/2022,2,166,,351,06/10/2023,Clothing,821,17.66,99,8,4,diners-club-carte-blanche,Mobile,Gold
+667,66,Female,19/08/2024,30,345,,80,05/11/2023,Pets,71,42.85,97,14,7,maestro,Mobile,Platinum
+668,69,Male,31/07/2019,27,403,,109,20/05/2024,Electronics,438,15.54,71,14,2,visa,Mobile,Silver
+669,33,Female,08/03/2018,7,128,,261,17/10/2023,Automotive,733,9.98,49,17,10,jcb,Mobile,Silver
+670,20,Male,28/09/2023,41,49,,189,26/02/2024,Clothing,890,12.27,99,1,5,jcb,Mobile,Gold
+671,75,Female,16/12/2022,93,422,,163,14/02/2024,Sports & Outdoors,521,61.74,65,16,8,americanexpress,Mobile,Silver
+672,47,Female,01/12/2023,26,307,,28,22/04/2024,Pets,315,77.6,89,12,5,mastercard,Desktop,Silver
+673,39,Male,20/06/2021,65,298,,329,11/09/2024,Health,285,35.68,42,7,2,maestro,Desktop,Silver
+674,92,Female,25/11/2018,14,46,,210,16/06/2024,Beauty,105,4.34,19,13,0,jcb,Mobile,Silver
+675,81,Male,08/01/2022,23,196,,252,19/05/2024,Home & Kitchen,942,20.33,0,1,8,jcb,Desktop,Platinum
+676,81,Male,10/06/2020,90,397,,12,25/05/2024,Books,319,6.85,33,4,2,mastercard,Mobile,Gold
+677,51,Male,22/11/2021,20,261,,182,06/07/2024,Automotive,49,66.37,33,19,8,diners-club-international,Desktop,Platinum
+678,39,Female,02/12/2019,44,205,,220,25/08/2024,Toys,268,51.05,9,20,7,jcb,Mobile,Silver
+679,94,Male,15/11/2023,64,476,,197,20/03/2024,Books,115,8.09,92,6,1,diners-club-international,Desktop,Platinum
+680,51,Male,25/05/2020,20,401,,258,20/02/2024,Pets,934,67.25,89,14,0,diners-club-us-ca,Desktop,Silver
+681,32,Female,19/09/2019,68,143,,218,18/10/2023,Beauty,507,35.06,54,11,0,bankcard,Mobile,Gold
+682,86,Female,14/12/2021,14,488,,142,02/08/2024,Books,860,71.79,31,15,2,mastercard,Mobile,Bronze
+683,74,Female,11/02/2023,8,227,,81,19/02/2024,Sports & Outdoors,643,0.72,32,10,8,instapayment,Mobile,Gold
+684,62,Female,26/04/2023,31,232,,187,01/10/2023,Books,915,54.71,2,0,10,jcb,Mobile,Bronze
+685,18,Male,17/07/2018,89,113,,20,17/02/2024,Books,1006,47.9,58,9,5,switch,Desktop,Bronze
+686,88,Male,13/01/2023,82,423,,334,18/12/2023,Sports & Outdoors,712,26.09,69,9,8,switch,Mobile,Platinum
+687,58,Male,14/01/2020,69,411,,116,15/03/2024,Pets,886,98.6,95,16,2,china-unionpay,Mobile,Platinum
+688,80,Female,29/03/2019,76,187,,102,24/08/2024,Pets,529,67.61,33,17,8,switch,Mobile,Gold
+689,74,Male,26/09/2021,9,40,,205,25/06/2024,Sports & Outdoors,158,24.34,30,6,7,jcb,Mobile,Gold
+690,32,Male,19/06/2024,47,205,,349,29/04/2024,Sports & Outdoors,483,95.95,85,19,5,bankcard,Desktop,Bronze
+691,76,Female,25/05/2022,15,328,,170,10/12/2023,Home & Kitchen,937,4.31,92,19,8,bankcard,Desktop,Gold
+692,34,Male,10/05/2022,52,367,,21,20/05/2024,Pets,536,83.84,35,11,10,jcb,Mobile,Platinum
+693,52,Female,29/01/2024,1,192,,342,07/09/2024,Toys,524,42.84,67,20,7,maestro,Desktop,Gold
+694,75,Male,05/07/2023,57,128,,22,26/06/2024,Books,305,63.83,85,9,1,switch,Mobile,Platinum
+695,54,Female,14/11/2021,9,320,,4,15/02/2024,Automotive,842,88.52,42,19,7,americanexpress,Desktop,Silver
+696,93,Female,09/03/2024,11,194,,332,05/08/2024,Toys,887,38.88,61,12,6,jcb,Desktop,Gold
+697,94,Male,08/03/2024,57,404,,93,20/09/2023,Automotive,576,46.53,69,6,3,americanexpress,Desktop,Silver
+698,81,Male,23/07/2021,1,134,,219,28/07/2024,Automotive,858,69.03,19,2,8,diners-club-enroute,Desktop,Gold
+699,43,Female,21/02/2020,24,236,,178,22/12/2023,Clothing,234,9.0,68,11,8,bankcard,Mobile,Silver
+700,81,Female,10/05/2022,13,15,,173,18/10/2023,Automotive,493,90.12,32,7,1,jcb,Mobile,Bronze
+701,49,Male,28/09/2022,60,374,,121,19/09/2023,Automotive,9,96.58,84,3,3,china-unionpay,Desktop,Gold
+702,60,Female,05/04/2020,84,494,,231,22/05/2024,Clothing,407,97.09,53,9,4,jcb,Mobile,Platinum
+703,38,Female,02/08/2022,13,455,,35,24/11/2023,Pets,95,19.05,51,19,2,switch,Desktop,Gold
+704,76,Male,10/09/2021,52,298,,185,25/04/2024,Home & Kitchen,504,63.75,60,10,2,jcb,Mobile,Bronze
+705,71,Female,02/10/2023,23,136,,334,18/04/2024,Beauty,94,70.11,45,17,7,maestro,Mobile,Gold
+706,56,Female,03/12/2019,97,333,,108,11/10/2023,Pets,815,0.28,74,15,3,maestro,Desktop,Bronze
+707,51,Male,04/09/2023,9,65,,197,05/03/2024,Clothing,277,32.88,53,8,10,jcb,Mobile,Bronze
+708,57,Male,13/02/2020,39,500,,199,07/08/2024,Home & Kitchen,955,62.42,70,17,7,diners-club-enroute,Desktop,Silver
+709,81,Female,10/12/2018,25,12,,157,13/11/2023,Beauty,993,43.84,76,17,0,mastercard,Mobile,Silver
+710,31,Male,29/09/2020,68,12,,172,21/02/2024,Pets,728,23.26,21,6,8,jcb,Mobile,Silver
+711,90,Female,26/10/2022,48,120,,300,08/08/2024,Home & Kitchen,358,28.98,91,7,6,switch,Mobile,Silver
+712,59,Male,11/08/2020,100,307,,226,30/07/2024,Clothing,694,32.19,26,6,3,jcb,Desktop,Silver
+713,31,Female,26/12/2023,42,253,,82,04/01/2024,Automotive,682,7.21,6,14,2,jcb,Desktop,Bronze
+714,69,Female,02/10/2018,44,221,,97,17/07/2024,Health,509,88.67,11,15,2,laser,Desktop,Bronze
+715,74,Female,05/07/2019,41,163,,41,17/11/2023,Beauty,229,8.77,35,8,4,jcb,Desktop,Gold
+716,47,Male,21/11/2020,19,177,,307,13/04/2024,Sports & Outdoors,874,44.99,89,3,10,jcb,Desktop,Platinum
+717,53,Female,26/03/2021,52,307,,159,01/07/2024,Toys,628,90.91,45,7,10,china-unionpay,Mobile,Platinum
+718,35,Male,09/07/2023,93,161,,122,26/02/2024,Clothing,164,52.31,56,6,7,diners-club-enroute,Desktop,Gold
+719,24,Male,14/10/2020,7,422,,186,26/03/2024,Automotive,709,46.2,84,17,6,americanexpress,Desktop,Bronze
+720,88,Female,26/08/2021,90,62,,86,11/01/2024,Beauty,810,95.91,54,10,4,jcb,Mobile,Bronze
+721,52,Female,30/09/2019,100,151,,98,10/07/2024,Health,472,61.11,35,16,3,diners-club-enroute,Desktop,Silver
+722,39,Female,26/06/2018,69,215,,153,14/08/2024,Health,602,87.89,75,13,6,diners-club-enroute,Mobile,Bronze
+723,55,Female,13/01/2023,87,353,,87,11/04/2024,Health,51,59.0,73,12,6,jcb,Desktop,Platinum
+724,79,Female,19/03/2018,71,114,,143,08/05/2024,Sports & Outdoors,765,92.02,40,8,2,maestro,Mobile,Platinum
+725,48,Male,22/01/2023,69,149,,73,19/02/2024,Beauty,637,47.67,75,5,2,jcb,Mobile,Gold
+726,77,Female,11/09/2018,67,55,,25,26/07/2024,Health,623,15.19,45,0,7,bankcard,Mobile,Bronze
+727,73,Female,09/12/2023,97,219,,65,03/06/2024,Clothing,1016,53.21,82,0,2,mastercard,Mobile,Bronze
+728,86,Male,05/07/2024,10,233,,39,15/09/2024,Automotive,218,19.05,28,18,9,jcb,Desktop,Bronze
+729,39,Male,05/03/2022,33,265,,198,02/12/2023,Beauty,142,28.85,99,2,1,jcb,Mobile,Bronze
+730,77,Male,25/01/2024,2,182,,105,09/04/2024,Beauty,109,69.05,84,17,10,jcb,Desktop,Bronze
+731,80,Female,24/06/2023,13,404,,61,08/12/2023,Sports & Outdoors,962,59.23,61,17,1,visa,Desktop,Silver
+732,37,Male,23/08/2020,84,323,,134,01/10/2023,Books,261,52.54,64,20,8,jcb,Desktop,Platinum
+733,35,Female,12/02/2019,51,120,,275,06/05/2024,Electronics,150,88.94,18,19,10,diners-club-carte-blanche,Desktop,Platinum
+734,35,Male,09/06/2019,56,308,,306,09/03/2024,Home & Kitchen,551,21.56,85,4,1,jcb,Mobile,Silver
+735,59,Male,22/05/2022,53,470,,355,07/10/2023,Clothing,290,23.5,34,16,1,maestro,Desktop,Silver
+736,69,Male,14/05/2023,84,73,,176,04/06/2024,Beauty,540,19.38,20,3,4,jcb,Desktop,Silver
+737,90,Male,17/04/2018,14,24,,165,28/11/2023,Automotive,262,88.26,20,3,8,jcb,Mobile,Bronze
+738,90,Male,08/07/2021,29,228,,218,26/09/2023,Electronics,955,29.05,47,13,5,laser,Desktop,Gold
+739,56,Female,10/07/2018,35,253,,133,14/03/2024,Toys,592,36.93,16,15,8,jcb,Desktop,Platinum
+740,33,Male,24/11/2023,24,197,,85,05/01/2024,Books,466,58.7,66,16,1,jcb,Mobile,Silver
+741,86,Female,28/05/2019,7,473,,47,28/05/2024,Health,476,1.77,28,20,6,bankcard,Mobile,Platinum
+742,58,Male,29/10/2019,100,344,,90,29/06/2024,Home & Kitchen,654,60.2,56,5,10,visa-electron,Mobile,Platinum
+743,82,Male,03/08/2024,82,420,,152,20/02/2024,Clothing,169,46.92,70,8,10,jcb,Mobile,Platinum
+744,77,Male,08/06/2021,61,113,,210,22/03/2024,Health,589,91.15,87,14,10,jcb,Desktop,Silver
+745,86,Female,06/07/2022,27,30,,229,02/02/2024,Health,886,56.72,66,7,1,visa-electron,Mobile,Bronze
+746,74,Male,01/11/2021,80,362,,201,17/02/2024,Clothing,187,98.02,13,13,9,jcb,Desktop,Platinum
+747,52,Male,16/01/2019,42,78,,344,25/05/2024,Pets,160,9.42,83,18,8,jcb,Desktop,Bronze
+748,38,Female,26/07/2021,47,491,,81,03/01/2024,Electronics,608,32.12,61,16,8,jcb,Desktop,Platinum
+749,78,Male,21/06/2023,57,333,,183,19/04/2024,Automotive,150,85.51,66,2,5,china-unionpay,Mobile,Platinum
+750,95,Female,06/04/2022,25,186,,72,03/04/2024,Health,1026,23.97,36,15,8,jcb,Desktop,Silver
+751,54,Male,26/05/2020,93,239,,208,01/09/2024,Clothing,848,67.08,24,4,9,switch,Desktop,Bronze
+752,62,Female,28/06/2018,90,247,,36,09/12/2023,Health,97,39.65,60,0,10,jcb,Mobile,Bronze
+753,21,Female,12/04/2024,72,496,,233,26/05/2024,Toys,339,57.8,90,8,4,jcb,Desktop,Platinum
+754,88,Male,16/07/2018,20,173,,206,01/10/2023,Health,270,4.05,65,19,0,diners-club-carte-blanche,Mobile,Platinum
+755,93,Male,23/08/2024,28,440,,18,08/09/2024,Electronics,758,86.15,9,16,3,jcb,Desktop,Gold
+756,80,Female,23/02/2024,47,291,,238,13/04/2024,Electronics,619,61.76,21,0,6,jcb,Desktop,Platinum
+757,52,Male,24/05/2020,99,458,,88,30/04/2024,Home & Kitchen,451,19.97,66,2,6,laser,Desktop,Gold
+758,68,Female,09/06/2021,23,244,,299,08/05/2024,Health,767,30.38,8,16,10,mastercard,Mobile,Silver
+759,54,Male,14/01/2024,42,77,,93,04/09/2024,Toys,327,17.89,57,4,10,jcb,Mobile,Bronze
+760,70,Male,04/02/2024,91,389,,113,14/05/2024,Clothing,472,44.49,52,10,6,switch,Desktop,Silver
+761,47,Male,05/06/2020,20,352,,166,11/09/2024,Beauty,1003,4.54,90,8,4,diners-club-carte-blanche,Desktop,Gold
+762,48,Male,12/05/2021,4,424,,245,28/10/2023,Home & Kitchen,196,52.77,14,9,3,visa-electron,Desktop,Gold
+763,51,Female,04/04/2023,5,424,,124,22/11/2023,Toys,933,54.08,89,12,1,jcb,Desktop,Platinum
+764,21,Male,16/12/2022,88,196,,322,08/02/2024,Automotive,878,58.63,71,3,1,jcb,Mobile,Silver
+765,56,Male,01/12/2020,28,381,,130,29/08/2024,Toys,722,35.61,79,2,3,jcb,Desktop,Gold
+766,71,Female,20/05/2021,55,457,,71,24/07/2024,Books,873,73.7,39,7,8,solo,Desktop,Platinum
+767,35,Male,14/07/2019,86,48,,162,25/08/2024,Health,654,79.91,69,0,3,bankcard,Mobile,Platinum
+768,61,Male,23/07/2019,14,251,,119,02/05/2024,Pets,108,90.51,33,0,4,diners-club-carte-blanche,Mobile,Gold
+769,61,Male,22/03/2023,28,434,,308,18/08/2024,Pets,355,59.27,40,13,7,jcb,Desktop,Platinum
+770,36,Female,28/03/2023,33,384,,357,17/04/2024,Books,643,23.82,36,1,4,visa-electron,Desktop,Platinum
+771,43,Female,05/08/2022,12,280,,88,03/01/2024,Books,375,61.69,33,16,10,maestro,Mobile,Bronze
+772,74,Male,02/12/2022,34,103,,311,01/05/2024,Pets,844,38.23,76,19,7,bankcard,Desktop,Platinum
+773,41,Female,16/07/2022,58,387,,233,15/12/2023,Toys,794,78.44,62,3,5,mastercard,Desktop,Gold
+774,53,Male,13/04/2022,63,146,,198,18/05/2024,Home & Kitchen,282,92.31,69,5,5,jcb,Desktop,Silver
+775,76,Female,08/12/2019,18,24,,87,30/04/2024,Health,806,54.31,82,9,8,laser,Desktop,Platinum
+776,22,Male,01/02/2020,3,102,,325,22/07/2024,Books,1000,78.44,72,11,3,mastercard,Mobile,Platinum
+777,83,Male,05/02/2022,48,123,,31,06/02/2024,Electronics,414,27.7,91,18,0,visa-electron,Desktop,Platinum
+778,55,Male,11/01/2021,1,67,,104,02/10/2023,Pets,72,40.4,13,5,1,instapayment,Mobile,Platinum
+779,71,Female,08/06/2018,81,492,,39,18/05/2024,Automotive,629,22.8,49,16,4,jcb,Desktop,Platinum
+780,26,Female,05/02/2022,82,89,,189,14/04/2024,Clothing,373,83.8,33,18,9,mastercard,Desktop,Gold
+781,83,Male,13/04/2023,59,461,,324,12/04/2024,Home & Kitchen,1005,74.46,79,14,10,maestro,Mobile,Gold
+782,29,Female,26/10/2022,64,136,,314,24/08/2024,Home & Kitchen,205,35.09,15,18,7,jcb,Mobile,Bronze
+783,90,Male,22/03/2021,9,168,,186,17/04/2024,Home & Kitchen,319,76.06,15,17,4,jcb,Desktop,Silver
+784,73,Female,20/01/2021,82,218,,188,22/05/2024,Toys,861,41.45,47,3,2,laser,Mobile,Silver
+785,83,Male,04/02/2019,32,148,,102,07/01/2024,Electronics,855,30.48,46,12,7,jcb,Desktop,Gold
+786,60,Male,24/05/2019,28,496,,191,23/06/2024,Home & Kitchen,1001,76.07,53,0,3,visa-electron,Desktop,Silver
+787,81,Female,20/01/2022,11,50,,274,02/04/2024,Sports & Outdoors,69,7.81,86,7,7,jcb,Desktop,Platinum
+788,70,Male,27/06/2021,6,280,,100,28/12/2023,Home & Kitchen,232,50.47,29,13,1,jcb,Mobile,Platinum
+789,40,Male,13/06/2021,14,157,,216,25/10/2023,Health,204,47.09,76,17,3,diners-club-enroute,Mobile,Gold
+790,53,Female,03/06/2018,99,146,,273,13/04/2024,Home & Kitchen,102,2.05,6,5,2,jcb,Mobile,Bronze
+791,26,Male,17/08/2018,55,467,,241,27/08/2024,Automotive,1017,5.26,46,15,0,jcb,Mobile,Bronze
+792,47,Female,17/05/2023,79,241,,68,27/01/2024,Toys,924,79.94,66,13,0,mastercard,Mobile,Platinum
+793,24,Male,20/11/2023,81,25,,24,04/04/2024,Home & Kitchen,557,66.62,35,10,2,mastercard,Desktop,Gold
+794,74,Male,22/02/2022,27,300,,28,26/04/2024,Electronics,434,57.4,30,18,1,china-unionpay,Desktop,Bronze
+795,38,Female,28/01/2020,10,109,,342,20/01/2024,Electronics,694,3.55,25,19,3,diners-club-enroute,Desktop,Bronze
+796,76,Male,11/04/2024,41,309,,235,16/11/2023,Toys,445,14.64,84,18,6,mastercard,Desktop,Silver
+797,18,Female,11/08/2023,76,335,,227,26/07/2024,Pets,526,17.96,56,3,0,visa,Mobile,Platinum
+798,71,Female,04/03/2020,94,151,,56,18/09/2023,Home & Kitchen,224,21.0,43,1,9,americanexpress,Mobile,Bronze
+799,57,Male,08/12/2018,3,27,,350,06/01/2024,Automotive,963,12.77,18,9,5,mastercard,Mobile,Bronze
+800,39,Male,01/11/2020,92,416,,50,29/07/2024,Automotive,506,92.35,96,12,5,mastercard,Desktop,Silver
+801,71,Male,10/03/2023,33,124,,142,22/10/2023,Sports & Outdoors,494,26.24,93,17,3,jcb,Desktop,Platinum
+802,21,Male,16/11/2018,32,333,,257,26/06/2024,Books,726,37.84,39,10,3,visa,Desktop,Gold
+803,30,Female,22/12/2023,14,79,,189,12/12/2023,Clothing,912,53.44,64,18,3,jcb,Desktop,Platinum
+804,23,Male,20/11/2020,12,317,,100,18/05/2024,Sports & Outdoors,27,59.33,68,10,3,china-unionpay,Mobile,Gold
+805,73,Female,19/09/2022,58,112,,283,06/12/2023,Pets,726,1.7,78,14,9,maestro,Desktop,Platinum
+806,47,Male,13/07/2019,91,413,,176,12/07/2024,Health,844,53.22,20,1,7,diners-club-us-ca,Desktop,Platinum
+807,89,Female,23/04/2018,52,358,,147,18/05/2024,Home & Kitchen,573,2.73,72,8,3,mastercard,Desktop,Platinum
+808,94,Male,23/08/2020,27,423,,203,28/03/2024,Home & Kitchen,826,68.83,1,17,4,china-unionpay,Desktop,Bronze
+809,92,Female,15/04/2023,77,277,,222,03/03/2024,Home & Kitchen,183,0.75,83,6,7,jcb,Desktop,Bronze
+810,49,Female,26/12/2021,32,97,,211,19/11/2023,Clothing,546,31.98,87,7,8,jcb,Mobile,Bronze
+811,41,Male,22/07/2022,85,139,,249,29/06/2024,Clothing,664,57.31,58,13,5,visa,Mobile,Platinum
+812,33,Male,26/03/2023,25,45,,36,14/12/2023,Health,1000,97.67,46,13,2,jcb,Mobile,Gold
+813,70,Female,14/09/2022,92,104,,336,06/02/2024,Sports & Outdoors,310,86.11,62,1,6,visa-electron,Desktop,Bronze
+814,18,Male,07/02/2022,94,367,,100,25/11/2023,Pets,545,57.91,0,10,6,china-unionpay,Mobile,Platinum
+815,42,Male,09/07/2022,80,171,,54,18/11/2023,Books,970,78.06,26,8,4,jcb,Desktop,Platinum
+816,35,Female,31/05/2023,9,158,,30,12/09/2024,Books,298,30.51,65,19,5,china-unionpay,Desktop,Gold
+817,42,Male,29/08/2020,42,493,,319,01/12/2023,Sports & Outdoors,672,57.99,58,17,7,mastercard,Desktop,Platinum
+818,50,Female,25/06/2018,30,131,,174,11/01/2024,Pets,811,89.49,67,15,6,china-unionpay,Mobile,Silver
+819,35,Male,14/09/2018,26,14,,286,05/10/2023,Automotive,979,49.82,75,8,3,jcb,Desktop,Platinum
+820,54,Female,16/05/2022,15,175,,302,29/11/2023,Toys,148,24.27,76,15,2,visa,Mobile,Bronze
+821,67,Male,17/07/2020,73,434,,52,15/04/2024,Electronics,449,37.41,97,17,2,china-unionpay,Desktop,Bronze
+822,43,Female,06/04/2021,11,22,,147,24/06/2024,Books,790,52.36,89,4,6,jcb,Mobile,Bronze
+823,67,Male,25/03/2022,61,368,,61,25/01/2024,Automotive,620,50.1,16,11,7,visa-electron,Desktop,Silver
+824,70,Male,15/07/2024,93,420,,253,04/06/2024,Sports & Outdoors,977,94.7,16,4,9,mastercard,Desktop,Gold
+825,19,Male,07/12/2023,64,37,,295,25/04/2024,Toys,744,61.25,23,17,5,maestro,Mobile,Silver
+826,92,Female,04/01/2023,63,496,,274,05/12/2023,Sports & Outdoors,374,27.28,54,19,5,maestro,Desktop,Platinum
+827,86,Female,11/10/2023,62,254,,64,16/06/2024,Toys,505,35.47,39,8,6,jcb,Mobile,Gold
+828,29,Female,10/07/2019,33,18,,319,11/12/2023,Clothing,397,59.08,98,15,5,diners-club-enroute,Desktop,Bronze
+829,69,Female,15/04/2024,83,428,,265,08/06/2024,Health,391,29.9,20,4,2,jcb,Mobile,Bronze
+830,65,Male,04/10/2023,6,166,,104,10/08/2024,Automotive,154,82.04,21,13,0,jcb,Mobile,Platinum
+831,30,Female,02/10/2019,54,451,,330,31/07/2024,Pets,239,48.9,55,14,7,jcb,Mobile,Gold
+832,78,Male,23/09/2021,55,101,,13,15/11/2023,Clothing,278,56.84,66,2,4,jcb,Mobile,Platinum
+833,52,Female,27/05/2021,55,375,,252,09/01/2024,Home & Kitchen,1025,82.8,14,19,3,jcb,Desktop,Silver
+834,32,Female,29/11/2019,99,438,,335,04/03/2024,Sports & Outdoors,521,65.64,9,9,8,laser,Desktop,Silver
+835,39,Male,17/03/2024,79,459,,184,28/01/2024,Automotive,441,87.41,96,20,5,switch,Mobile,Platinum
+836,45,Male,24/12/2022,61,114,,26,15/01/2024,Clothing,295,65.56,55,15,1,jcb,Desktop,Silver
+837,78,Female,28/04/2019,45,265,,197,09/07/2024,Automotive,931,5.31,69,12,0,visa,Mobile,Platinum
+838,57,Female,01/07/2024,37,67,,37,27/11/2023,Sports & Outdoors,775,80.3,59,20,6,jcb,Desktop,Bronze
+839,91,Male,20/01/2019,72,193,,98,09/02/2024,Home & Kitchen,614,30.0,22,4,9,americanexpress,Desktop,Platinum
+840,30,Female,05/02/2019,94,116,,111,04/07/2024,Books,558,46.91,89,8,0,jcb,Desktop,Platinum
+841,59,Male,17/04/2020,48,433,,240,20/04/2024,Toys,728,87.3,94,13,6,mastercard,Mobile,Bronze
+842,85,Male,28/11/2022,20,96,,236,22/01/2024,Home & Kitchen,707,60.96,97,17,6,jcb,Mobile,Platinum
+843,73,Male,01/06/2019,2,250,,231,02/07/2024,Pets,266,92.93,5,17,0,jcb,Mobile,Silver
+844,37,Female,30/08/2020,95,436,,230,13/12/2023,Home & Kitchen,883,60.84,11,7,2,maestro,Desktop,Gold
+845,26,Male,28/08/2018,43,207,,347,07/01/2024,Pets,225,65.59,70,1,9,jcb,Mobile,Silver
+846,87,Male,18/09/2022,2,468,,284,20/06/2024,Toys,725,92.77,50,14,4,jcb,Mobile,Platinum
+847,87,Female,05/07/2023,50,446,,135,27/09/2023,Books,899,6.01,18,3,1,jcb,Mobile,Platinum
+848,85,Male,10/04/2024,24,416,,106,25/06/2024,Electronics,1014,60.14,85,11,4,switch,Mobile,Platinum
+849,57,Male,22/10/2021,28,309,,138,23/02/2024,Pets,1031,26.51,66,5,5,china-unionpay,Mobile,Gold
+850,25,Male,23/12/2020,7,309,,242,20/02/2024,Pets,30,46.64,34,8,1,switch,Mobile,Bronze
+851,88,Female,17/09/2019,92,432,,131,14/02/2024,Clothing,41,75.19,53,5,1,jcb,Desktop,Gold
+852,27,Male,22/12/2022,95,287,,132,27/04/2024,Automotive,20,81.74,64,11,6,jcb,Mobile,Bronze
+853,62,Female,16/07/2022,96,197,,361,06/01/2024,Automotive,364,10.72,94,9,9,bankcard,Desktop,Gold
+854,44,Female,14/09/2018,41,394,,351,08/03/2024,Beauty,542,70.99,57,16,8,jcb,Desktop,Bronze
+855,72,Female,31/05/2019,20,85,,33,30/10/2023,Beauty,451,88.67,30,18,3,jcb,Desktop,Bronze
+856,63,Male,08/05/2021,46,385,,90,05/02/2024,Toys,994,96.01,42,18,3,instapayment,Desktop,Bronze
+857,43,Male,07/12/2020,78,136,,88,18/11/2023,Automotive,973,43.25,72,5,3,visa-electron,Mobile,Gold
+858,94,Male,12/08/2022,1,181,,31,16/04/2024,Pets,599,19.38,89,5,1,solo,Mobile,Platinum
+859,43,Male,10/06/2024,3,398,,335,08/04/2024,Pets,153,85.89,6,5,6,diners-club-carte-blanche,Desktop,Gold
+860,67,Female,20/02/2023,46,499,,347,24/03/2024,Clothing,227,10.32,59,11,6,instapayment,Mobile,Platinum
+861,61,Male,24/03/2019,49,282,,284,01/06/2024,Electronics,67,42.23,37,19,8,switch,Mobile,Platinum
+862,81,Male,18/12/2020,20,370,,234,08/12/2023,Sports & Outdoors,3,71.1,45,12,0,china-unionpay,Mobile,Bronze
+863,87,Male,04/12/2018,23,330,,83,09/11/2023,Toys,541,3.33,4,20,5,jcb,Mobile,Bronze
+864,64,Male,18/10/2020,32,342,,130,09/12/2023,Automotive,963,12.08,13,14,3,americanexpress,Mobile,Gold
+865,89,Female,06/06/2021,95,252,,364,09/12/2023,Toys,712,57.71,40,13,9,solo,Desktop,Gold
+866,87,Female,16/08/2023,27,31,,129,17/10/2023,Automotive,323,73.32,42,14,0,jcb,Mobile,Gold
+867,73,Female,17/04/2023,88,140,,70,26/02/2024,Automotive,129,9.0,40,6,0,jcb,Desktop,Platinum
+868,27,Male,17/06/2022,4,225,,130,11/02/2024,Electronics,282,27.1,2,15,9,laser,Desktop,Silver
+869,91,Female,09/08/2022,36,269,,39,09/08/2024,Health,371,31.21,96,3,4,jcb,Mobile,Silver
+870,36,Female,02/10/2018,68,365,,184,26/10/2023,Books,689,3.21,25,6,1,diners-club-carte-blanche,Desktop,Silver
+871,39,Female,27/07/2024,17,135,,161,02/07/2024,Beauty,697,27.21,58,20,5,switch,Mobile,Platinum
+872,89,Female,10/07/2019,77,104,,322,25/08/2024,Automotive,580,7.86,98,0,2,jcb,Desktop,Platinum
+873,80,Female,24/02/2023,97,331,,82,29/05/2024,Health,858,64.62,16,14,6,jcb,Desktop,Platinum
+874,18,Female,22/10/2020,38,470,,333,20/01/2024,Automotive,402,33.24,55,18,9,jcb,Mobile,Silver
+875,37,Male,03/02/2022,5,478,,323,24/03/2024,Sports & Outdoors,67,23.53,49,19,9,jcb,Desktop,Bronze
+876,82,Male,23/11/2018,11,200,,324,12/04/2024,Toys,751,44.39,83,18,5,jcb,Desktop,Silver
+877,23,Female,16/12/2021,27,318,,71,29/11/2023,Pets,453,32.0,95,3,3,maestro,Mobile,Platinum
+878,32,Female,06/05/2018,23,164,,246,03/04/2024,Electronics,710,13.05,12,9,10,diners-club-us-ca,Desktop,Silver
+879,60,Female,24/01/2023,72,281,,254,09/07/2024,Home & Kitchen,251,6.35,93,10,5,maestro,Mobile,Gold
+880,89,Female,26/12/2023,50,356,,202,14/08/2024,Automotive,702,39.97,30,5,4,maestro,Mobile,Gold
+881,70,Male,13/07/2018,84,227,,255,23/08/2024,Electronics,489,63.73,45,6,8,jcb,Desktop,Platinum
+882,24,Female,14/12/2022,73,141,,68,10/06/2024,Toys,435,58.42,74,0,7,jcb,Mobile,Bronze
+883,63,Female,05/03/2024,69,164,,61,29/04/2024,Books,5,74.37,72,17,1,jcb,Mobile,Silver
+884,29,Male,03/05/2020,14,354,,290,29/08/2024,Sports & Outdoors,258,28.15,74,12,2,americanexpress,Desktop,Gold
+885,66,Male,13/06/2022,51,199,,261,01/09/2024,Sports & Outdoors,528,51.61,62,12,4,jcb,Desktop,Gold
+886,89,Female,29/02/2024,54,69,,246,04/10/2023,Electronics,778,70.04,6,3,9,jcb,Mobile,Platinum
+887,90,Male,08/06/2018,90,19,,54,28/12/2023,Automotive,394,35.2,66,7,9,visa-electron,Mobile,Bronze
+888,64,Male,21/07/2020,27,255,,293,21/08/2024,Pets,28,13.58,81,17,2,jcb,Desktop,Platinum
+889,18,Male,02/08/2018,69,471,,84,27/06/2024,Automotive,131,93.72,67,3,6,maestro,Desktop,Platinum
+890,53,Male,16/05/2024,98,305,,36,28/02/2024,Electronics,124,76.3,94,2,10,solo,Mobile,Bronze
+891,55,Female,27/10/2018,98,261,,179,15/04/2024,Electronics,189,28.72,63,13,5,jcb,Desktop,Bronze
+892,18,Male,22/03/2023,44,404,,280,11/07/2024,Home & Kitchen,851,77.16,89,7,8,visa,Desktop,Platinum
+893,71,Female,10/12/2020,87,480,,240,08/08/2024,Electronics,105,6.9,32,16,0,laser,Mobile,Platinum
+894,90,Female,06/07/2023,2,11,,360,08/03/2024,Electronics,2,95.33,20,17,9,americanexpress,Mobile,Bronze
+895,74,Male,09/08/2021,38,21,,189,28/04/2024,Books,651,41.41,28,17,2,jcb,Desktop,Platinum
+896,40,Male,11/12/2021,12,163,,26,11/04/2024,Home & Kitchen,442,82.62,80,3,6,visa,Desktop,Bronze
+897,58,Male,04/04/2021,56,23,,118,03/12/2023,Health,216,75.64,88,15,6,switch,Mobile,Platinum
+898,22,Female,16/06/2024,10,437,,202,09/02/2024,Clothing,552,59.08,8,14,7,china-unionpay,Desktop,Silver
+899,60,Female,15/09/2020,7,195,,211,13/04/2024,Home & Kitchen,535,37.23,60,10,2,jcb,Desktop,Platinum
+900,52,Female,09/12/2022,38,379,,61,04/07/2024,Toys,715,50.33,61,2,0,jcb,Desktop,Platinum
+901,21,Female,30/04/2022,40,110,,335,12/11/2023,Books,588,0.31,6,13,6,visa-electron,Desktop,Bronze
+902,23,Male,07/07/2020,18,202,,359,20/06/2024,Pets,301,26.51,96,0,1,diners-club-carte-blanche,Mobile,Silver
+903,37,Male,14/01/2020,2,325,,203,09/07/2024,Sports & Outdoors,792,10.66,39,12,2,jcb,Desktop,Gold
+904,67,Female,13/08/2018,70,73,,186,25/08/2024,Beauty,378,35.05,81,17,3,mastercard,Desktop,Bronze
+905,49,Male,02/01/2024,28,462,,61,28/03/2024,Beauty,717,23.33,0,2,0,jcb,Desktop,Bronze
+906,49,Male,21/04/2021,94,243,,317,06/02/2024,Health,987,61.99,68,10,6,visa-electron,Desktop,Bronze
+907,78,Male,15/09/2023,71,215,,44,09/03/2024,Health,167,92.8,88,4,0,jcb,Mobile,Gold
+908,37,Male,09/05/2019,96,498,,211,24/04/2024,Sports & Outdoors,741,17.62,77,16,7,jcb,Desktop,Gold
+909,54,Female,27/06/2023,12,10,,212,03/06/2024,Beauty,532,30.81,87,0,8,laser,Mobile,Gold
+910,56,Male,02/02/2020,6,149,,223,11/02/2024,Books,279,60.99,53,12,3,jcb,Mobile,Platinum
+911,35,Male,26/03/2022,94,447,,254,30/07/2024,Beauty,450,98.05,84,5,3,jcb,Mobile,Bronze
+912,29,Female,16/11/2018,29,196,,221,21/03/2024,Home & Kitchen,608,58.64,77,4,7,jcb,Desktop,Silver
+913,88,Female,14/02/2024,70,196,,267,06/12/2023,Health,939,1.5,23,15,9,bankcard,Mobile,Bronze
+914,29,Male,05/04/2022,22,296,,83,12/05/2024,Sports & Outdoors,975,56.36,76,15,8,visa-electron,Mobile,Platinum
+915,92,Male,07/06/2021,60,92,,242,19/06/2024,Pets,346,84.45,29,14,7,jcb,Desktop,Gold
+916,76,Female,03/07/2018,74,450,,223,27/12/2023,Automotive,919,2.36,6,16,3,china-unionpay,Desktop,Gold
+917,85,Female,02/09/2020,12,202,,292,10/10/2023,Books,768,55.79,32,18,7,maestro,Mobile,Platinum
+918,59,Female,01/10/2020,51,364,,161,13/03/2024,Books,430,85.5,4,3,8,jcb,Mobile,Gold
+919,53,Male,26/05/2020,86,120,,61,15/04/2024,Health,757,0.39,90,6,7,bankcard,Desktop,Bronze
+920,83,Male,15/09/2023,17,184,,248,02/10/2023,Automotive,708,86.91,98,11,1,jcb,Desktop,Silver
+921,61,Male,27/03/2022,15,143,,137,03/08/2024,Pets,764,23.79,50,7,1,diners-club-carte-blanche,Mobile,Silver
+922,88,Female,01/10/2021,22,366,,212,27/09/2023,Home & Kitchen,596,27.43,3,20,10,jcb,Mobile,Gold
+923,66,Male,22/03/2018,96,35,,342,26/02/2024,Automotive,277,44.5,88,6,5,visa,Mobile,Silver
+924,20,Female,16/06/2024,38,217,,1,24/08/2024,Beauty,70,4.05,61,9,9,jcb,Desktop,Silver
+925,69,Female,23/02/2020,91,86,,102,25/07/2024,Pets,667,58.88,56,0,3,maestro,Mobile,Platinum
+926,88,Female,09/03/2018,49,57,,149,05/11/2023,Beauty,848,84.8,71,16,0,jcb,Mobile,Gold
+927,75,Male,22/02/2022,93,125,,15,12/07/2024,Sports & Outdoors,127,44.86,55,2,5,jcb,Mobile,Silver
+928,74,Male,27/06/2023,33,320,,259,31/03/2024,Beauty,911,75.54,42,14,8,jcb,Desktop,Platinum
+929,23,Female,08/09/2018,37,475,,217,05/06/2024,Sports & Outdoors,388,29.11,36,9,7,laser,Desktop,Silver
+930,40,Male,31/12/2022,7,243,,114,16/03/2024,Toys,348,51.34,0,3,6,maestro,Mobile,Bronze
+931,60,Female,19/08/2024,26,382,,211,13/12/2023,Sports & Outdoors,390,62.77,94,18,4,jcb,Mobile,Silver
+932,67,Male,21/06/2023,47,262,,107,30/11/2023,Beauty,998,34.05,8,5,3,americanexpress,Mobile,Platinum
+933,41,Male,10/04/2019,85,387,,196,13/03/2024,Toys,300,15.31,68,8,8,jcb,Desktop,Gold
+934,76,Female,24/02/2021,80,297,,32,21/04/2024,Sports & Outdoors,792,44.16,80,6,7,diners-club-enroute,Desktop,Platinum
+935,55,Female,18/01/2021,84,120,,124,14/12/2023,Sports & Outdoors,174,35.43,85,17,4,diners-club-enroute,Mobile,Platinum
+936,94,Female,24/07/2018,55,10,,19,04/01/2024,Sports & Outdoors,1006,88.06,80,6,1,jcb,Mobile,Silver
+937,44,Female,14/09/2023,77,83,,165,02/04/2024,Home & Kitchen,243,64.13,2,2,10,diners-club-enroute,Mobile,Bronze
+938,27,Male,05/09/2023,76,90,,169,01/08/2024,Home & Kitchen,510,86.26,50,20,1,jcb,Desktop,Silver
+939,45,Male,17/12/2018,77,327,,19,02/03/2024,Clothing,989,11.75,14,12,6,switch,Mobile,Platinum
+940,18,Female,10/02/2020,19,60,,221,20/07/2024,Clothing,387,1.47,22,0,6,laser,Mobile,Gold
+941,69,Male,21/01/2021,91,240,,163,15/11/2023,Books,103,38.31,95,18,4,americanexpress,Mobile,Silver
+942,73,Male,20/04/2022,84,293,,285,04/11/2023,Clothing,237,72.4,66,16,1,switch,Mobile,Platinum
+943,85,Female,16/02/2022,6,371,,338,10/04/2024,Clothing,168,86.64,11,3,3,jcb,Mobile,Platinum
+944,31,Female,19/08/2021,40,341,,117,29/08/2024,Pets,445,57.83,28,0,5,diners-club-enroute,Desktop,Gold
+945,68,Female,07/09/2019,97,42,,188,27/02/2024,Health,441,48.28,47,9,3,diners-club-enroute,Desktop,Silver
+946,33,Male,15/12/2018,35,424,,283,25/12/2023,Electronics,951,33.37,59,4,4,mastercard,Desktop,Platinum
+947,18,Female,01/05/2024,96,102,,143,18/01/2024,Health,841,89.68,68,2,1,diners-club-carte-blanche,Mobile,Silver
+948,85,Male,22/12/2018,37,488,,286,12/02/2024,Books,1008,78.41,93,14,7,jcb,Desktop,Platinum
+949,23,Female,05/02/2018,46,456,,44,24/06/2024,Electronics,1022,43.36,57,2,10,americanexpress,Desktop,Gold
+950,37,Female,04/12/2019,82,211,,292,09/09/2024,Clothing,247,74.68,52,11,1,americanexpress,Desktop,Bronze
+951,66,Female,18/06/2020,6,128,,216,07/12/2023,Beauty,513,59.07,62,3,9,jcb,Desktop,Bronze
+952,29,Male,01/06/2019,90,205,,364,16/07/2024,Home & Kitchen,487,77.16,15,19,3,visa,Mobile,Bronze
+953,47,Male,06/09/2020,30,115,,347,18/05/2024,Electronics,662,57.64,7,0,7,instapayment,Mobile,Silver
+954,19,Male,05/03/2018,30,207,,140,05/01/2024,Automotive,383,64.19,28,2,7,china-unionpay,Desktop,Silver
+955,48,Male,23/04/2018,71,444,,306,30/10/2023,Clothing,828,23.67,13,6,9,jcb,Desktop,Gold
+956,29,Female,10/12/2021,16,97,,323,06/02/2024,Sports & Outdoors,579,2.87,82,9,2,jcb,Mobile,Bronze
+957,45,Male,07/09/2019,77,181,,205,19/04/2024,Books,481,88.8,29,7,1,jcb,Desktop,Silver
+958,48,Male,11/06/2022,91,53,,19,17/06/2024,Health,416,76.36,0,17,1,mastercard,Mobile,Platinum
+959,33,Male,14/09/2019,100,376,,170,02/03/2024,Health,64,64.83,38,4,4,jcb,Mobile,Silver
+960,77,Male,19/05/2018,80,129,,332,21/02/2024,Sports & Outdoors,47,51.87,33,17,1,diners-club-enroute,Desktop,Bronze
+961,22,Male,19/09/2023,23,413,,326,15/11/2023,Books,1015,81.88,50,5,6,solo,Desktop,Silver
+962,50,Male,13/01/2022,20,291,,290,05/05/2024,Home & Kitchen,225,26.41,62,6,3,jcb,Desktop,Gold
+963,24,Female,03/01/2023,31,444,,134,17/10/2023,Sports & Outdoors,977,54.69,64,20,4,jcb,Mobile,Bronze
+964,62,Female,06/10/2023,29,119,,136,14/02/2024,Automotive,127,83.87,76,19,5,jcb,Mobile,Bronze
+965,19,Female,11/08/2019,99,385,,344,20/11/2023,Home & Kitchen,547,80.37,24,3,8,china-unionpay,Desktop,Silver
+966,28,Female,25/03/2021,27,218,,72,07/11/2023,Automotive,564,47.09,91,0,9,visa-electron,Desktop,Platinum
+967,78,Male,08/04/2021,54,316,,321,22/04/2024,Health,493,64.42,0,6,3,jcb,Mobile,Silver
+968,42,Female,13/05/2020,98,469,,310,28/05/2024,Health,128,70.88,81,3,9,maestro,Mobile,Platinum
+969,46,Male,03/10/2018,90,365,,333,19/03/2024,Toys,529,35.0,44,9,10,diners-club-carte-blanche,Desktop,Silver
+970,58,Male,29/04/2018,97,34,,42,04/07/2024,Health,129,57.77,56,19,0,jcb,Desktop,Bronze
+971,73,Male,24/04/2023,3,218,,74,10/09/2024,Home & Kitchen,924,84.85,9,15,3,china-unionpay,Mobile,Bronze
+972,31,Female,13/09/2023,59,472,,75,29/02/2024,Electronics,228,89.74,24,4,7,jcb,Mobile,Bronze
+973,38,Male,26/01/2022,38,242,,81,03/06/2024,Pets,568,29.05,92,12,3,maestro,Desktop,Bronze
+974,51,Male,05/03/2022,4,200,,93,26/07/2024,Clothing,91,90.2,92,19,1,jcb,Mobile,Gold
+975,32,Male,10/11/2019,3,361,,221,07/08/2024,Health,854,67.86,16,16,7,jcb,Mobile,Platinum
+976,50,Male,22/05/2020,96,23,,326,13/02/2024,Home & Kitchen,3,11.33,7,18,6,jcb,Desktop,Platinum
+977,53,Male,08/09/2022,17,180,,304,27/12/2023,Beauty,594,33.63,23,8,0,jcb,Mobile,Platinum
+978,55,Male,18/01/2023,14,90,,39,08/11/2023,Pets,200,49.24,5,19,3,americanexpress,Desktop,Silver
+979,48,Female,20/02/2018,10,45,,57,22/07/2024,Sports & Outdoors,32,98.15,52,7,8,jcb,Desktop,Gold
+980,85,Female,03/10/2019,7,65,,201,20/04/2024,Clothing,712,95.74,39,12,6,switch,Desktop,Silver
+981,90,Male,22/11/2020,27,82,,121,17/12/2023,Automotive,784,57.49,21,9,1,bankcard,Desktop,Silver
+982,61,Male,15/07/2024,44,102,,133,02/11/2023,Electronics,886,17.82,70,3,4,switch,Desktop,Platinum
+983,90,Female,08/01/2023,4,432,,261,27/11/2023,Toys,572,31.19,29,18,2,mastercard,Mobile,Gold
+984,94,Female,31/05/2022,2,221,,344,03/01/2024,Home & Kitchen,921,96.94,27,16,3,diners-club-carte-blanche,Mobile,Platinum
+985,24,Male,09/10/2020,20,500,,104,01/09/2024,Books,417,21.61,13,11,8,jcb,Mobile,Bronze
+986,95,Male,05/04/2023,58,125,,5,27/08/2024,Home & Kitchen,138,69.39,31,8,4,bankcard,Mobile,Gold
+987,26,Male,03/08/2020,68,46,,13,28/12/2023,Health,472,73.38,65,10,0,visa-electron,Mobile,Platinum
+988,24,Male,04/11/2020,98,269,,268,12/05/2024,Home & Kitchen,451,98.08,37,9,9,jcb,Desktop,Bronze
+989,71,Male,12/05/2022,84,487,,28,07/11/2023,Automotive,750,41.69,55,8,1,maestro,Mobile,Bronze
+990,34,Male,12/09/2024,61,62,,126,11/09/2024,Clothing,616,45.12,93,4,3,visa-electron,Mobile,Bronze
+991,89,Male,16/03/2022,78,412,,36,19/06/2024,Toys,969,4.95,21,5,1,diners-club-carte-blanche,Desktop,Platinum
+992,57,Female,28/11/2022,21,38,,144,25/11/2023,Clothing,864,16.06,59,9,2,jcb,Desktop,Gold
+993,91,Female,06/02/2024,72,404,,256,07/10/2023,Automotive,126,67.94,98,19,6,instapayment,Mobile,Gold
+994,77,Male,20/12/2020,71,432,,348,10/07/2024,Sports & Outdoors,12,82.65,15,19,4,diners-club-us-ca,Mobile,Platinum
+995,37,Female,23/08/2018,90,82,,59,04/11/2023,Health,1022,86.23,95,5,5,laser,Mobile,Bronze
+996,65,Male,27/07/2024,29,111,,8,08/05/2024,Books,210,80.34,7,20,0,bankcard,Desktop,Bronze
+997,81,Female,02/02/2022,10,263,,324,24/08/2024,Books,158,87.53,29,10,8,jcb,Desktop,Bronze
+998,23,Male,27/03/2018,100,248,,40,06/06/2024,Books,785,27.77,70,9,6,visa-electron,Mobile,Bronze
+999,22,Male,19/12/2022,93,254,,201,12/11/2023,Home & Kitchen,110,53.89,69,13,7,jcb,Mobile,Gold
+1000,85,Female,02/07/2022,63,388,,6,06/10/2023,Health,277,36.32,66,4,4,jcb,Desktop,Gold
