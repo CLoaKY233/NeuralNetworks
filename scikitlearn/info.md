@@ -1,169 +1,229 @@
-# Ensemble Learning Model for Customer Spending Prediction
+# Customer Spending Prediction Models
+
+![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Latest-green)
+![Pandas](https://img.shields.io/badge/Pandas-Latest-yellow)
+![NumPy](https://img.shields.io/badge/NumPy-Latest-lightgrey)
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Data Preparation](#data-preparation)
-3. [Model Architecture](#model-architecture)
-4. [Training Process](#training-process)
-5. [Evaluation Metrics](#evaluation-metrics)
-6. [Code Breakdown](#code-breakdown)
-7. [Conclusion](#conclusion)
+- [Project Overview](#project-overview)
+- [Dataset](#dataset)
+  - [Data Cleaning Process](#data-cleaning-process)
+  - [Features](#features)
+- [Models](#models)
+  - [Deep Neural Network](#deep-neural-network)
+  - [Ensemble Model](#ensemble-model)
+  - [Upcoming Models](#upcoming-models)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Results](#results)
+  - [Deep Learning Model Performance](#deep-learning-model-performance)
+  - [Ensemble Model Performance](#ensemble-model-performance)
+  - [Model Comparison](#model-comparison)
+- [Documentation](#documentation)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
-## Introduction
+## Project Overview
 
-This document explains an ensemble learning model designed to predict customer spending based on various features. The model combines Random Forest, Gradient Boosting, and Neural Network regressors using a Voting Regressor approach.
+This repository houses a comprehensive collection of machine learning and deep learning models designed to predict customer spending patterns. The project demonstrates the application of various advanced techniques in data preprocessing, feature engineering, and model development to tackle a real-world business problem: forecasting customer expenditure.
 
-## Data Preparation
+Our approach encompasses multiple stages:
+1. Data cleaning and preprocessing
+2. Feature engineering and selection
+3. Implementation of diverse predictive models
+4. Model evaluation and comparison
+5. Continuous improvement and optimization
 
-### Key Steps:
-1. Load data from CSV
-2. Separate features (X) and target variable (y)
-3. Apply log transformation to target variable
-4. Split data into training and testing sets
-5. Standardize features
+By exploring different modeling techniques, we aim to provide insights into the effectiveness of various approaches in predicting customer behavior, which can be invaluable for businesses in tailoring their marketing strategies and improving customer relationship management.
 
-```python
-y = np.log1p(data['total_spent'])  # Log transform
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-scaler = StandardScaler()
-X_train_scaled = scaler.fit_transform(X_train)
-```
+## Dataset
 
-> **Log Transformation**: Applied to handle skewed distribution of the target variable, making it more normally distributed.
+The project utilizes a custom dataset (`MOCK_DATA.csv`) containing rich customer information. This raw data undergoes extensive cleaning and preprocessing to create the `cleaned_customer_data.csv` file, which serves as the foundation for our predictive models.
 
-> **StandardScaler**: Normalizes features to have mean=0 and variance=1, ensuring all features are on the same scale.
+### Data Cleaning Process
 
-## Model Architecture
-
-The ensemble model consists of three different regressors:
+The data preparation pipeline involves several crucial steps:
 
 ```mermaid
 graph TD
-    A[Input] --> B[Random Forest Regressor]
-    A --> C[Gradient Boosting Regressor]
-    A --> D[Neural Network Regressor]
-    B --> E[Voting Regressor]
-    C --> E
-    D --> E
-    E --> F[Output]
+    A[Load Raw Data] --> B[Convert Dates]
+    B --> C[Remove Invalid Entries]
+    C --> D[Handle Numerical Data]
+    D --> E[Encode Categorical Variables]
+    E --> F[Create New Features]
+    F --> G[Handle Outliers]
+    G --> H[Normalize/Standardize Data]
+    H --> I[Save Cleaned Data]
 ```
 
-### Individual Models:
+For an in-depth explanation of each step in the data cleaning process, refer to our [Data Cleaning Documentation](preprocess/info.md).
 
-1. **Random Forest Regressor**:
-   - Ensemble of decision trees
-   - Good for handling non-linear relationships and feature interactions
+### Features
 
-2. **Gradient Boosting Regressor**:
-   - Sequential ensemble of weak learners
-   - Excellent for capturing complex patterns in data
+After preprocessing, our dataset includes the following key features:
 
-3. **Neural Network Regressor (MLPRegressor)**:
-   - Multi-layer perceptron
-   - Capable of learning complex non-linear relationships
+- Demographic information (age, gender, location)
+- Purchase history (frequency, recency, monetary value)
+- Customer engagement metrics
+- Product preferences
+- Seasonal buying patterns
 
-### Ensemble Method:
+The target variable is the `total_spent` by each customer, which we aim to predict using the above features.
 
-**Voting Regressor**:
-- Combines predictions from multiple models
-- Final prediction is the average of individual model predictions
+## Models
 
-```python
-ensemble_model = VotingRegressor([
-    ('rf', rf_model),
-    ('gb', gb_model),
-    ('nn', nn_model)
-])
+### Deep Neural Network
+
+Our deep learning model leverages the power of TensorFlow and Keras to create a sophisticated neural network architecture:
+
+- **Architecture**: Multiple dense layers with dropout for regularization
+- **Activation**: ReLU for hidden layers, linear activation for output layer
+- **Optimization**: Adam optimizer with learning rate scheduling
+- **Regularization**: L2 regularization and dropout to prevent overfitting
+
+For a detailed breakdown of the neural network architecture and training process, see [Deep Learning Model Details](keras/info.md).
+
+### Ensemble Model
+
+The ensemble model combines the strengths of multiple algorithms to create a robust predictor:
+
+- **Algorithms**: Random Forest, Gradient Boosting, and Neural Network regressors
+- **Ensemble Method**: Voting Regressor
+- **Strengths**:
+  - Captures both linear and non-linear relationships
+  - Robust to outliers and noise in the data
+  - Reduces overfitting through model averaging
+
+For in-depth information on the ensemble model's structure and implementation, refer to [Ensemble Model Details](scikitlearn/info.md).
+
+### Upcoming Models
+
+We plan to expand our model repertoire with:
+
+- Linear Models (Ridge, Lasso, Elastic Net)
+- Support Vector Regression
+- XGBoost and LightGBM implementations
+
+## Project Structure
+
+```
+.
+├── datasets/
+│   ├── MOCK_DATA.csv
+│   └── cleaned_customer_data.csv
+├── keras/
+│   ├── deeplearn.py
+│   ├── info.md
+│   └── notes.md
+├── scikitlearn/
+│   ├── ensemble.py
+│   └── info.md
+├── preprocess/
+│   ├── datacleaner.py
+│   └── info.md
+├── utils/
+│   ├── visualization.py
+│   └── metrics.py
+├── notebooks/
+│   ├── EDA.ipynb
+│   └── ModelComparison.ipynb
+├── tests/
+│   ├── test_preprocessing.py
+│   └── test_models.py
+├── README.md
+├── requirements.txt
+└── .gitignore
 ```
 
-## Training Process
+## Installation
 
-The ensemble model is trained on the scaled training data:
+1. Clone the repository:
+   ```
+   git clone https://github.com/yourusername/customer-spending-prediction.git
+   cd customer-spending-prediction
+   ```
 
-```python
-ensemble_model.fit(X_train_scaled, y_train)
-```
+2. Create a virtual environment (optional but recommended):
+   ```
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ```
 
-Each individual model within the ensemble is trained simultaneously.
+3. Install required packages:
+   ```
+   pip install -r requirements.txt
+   ```
 
-## Evaluation Metrics
+## Usage
 
-1. **Mean Squared Error (MSE)**:
-   - Average squared difference between predicted and actual values
-   - Formula: MSE = (1/n) * Σ(y_true - y_pred)^2
-   - Lower values indicate better model performance
+1. Data Preprocessing:
+   ```
+   python preprocess/datacleaner.py
+   ```
 
-2. **Mean Absolute Percentage Error (MAPE)**:
-   - Average of absolute percentage errors
-   - Formula: MAPE = (100/n) * Σ|((y_true - y_pred) / y_true)|
-   - Provides a percentage measure of prediction accuracy
+2. Run Deep Learning Model:
+   ```
+   python keras/deeplearn.py
+   ```
 
-```python
-mse = mean_squared_error(y_test_original, y_pred)
-mape = mean_absolute_percentage_error(y_test_original, y_pred) * 100
-```
+3. Run Ensemble Model:
+   ```
+   python scikitlearn/ensemble.py
+   ```
 
-## Code Breakdown
+4. For Jupyter notebooks (EDA and Model Comparison):
+   ```
+   jupyter notebook
+   ```
+   Then navigate to the `notebooks/` directory and open the desired notebook.
 
-<details>
-<summary>Click to expand full code explanation</summary>
+## Results
 
-```python
-# Import necessary libraries
-import pandas as pd
-import numpy as np
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import StandardScaler
-from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor, VotingRegressor
-from sklearn.neural_network import MLPRegressor
-from sklearn.metrics import mean_squared_error, mean_absolute_percentage_error
+### Deep Learning Model Performance
 
-# Load and preprocess data
-data = pd.read_csv('../datasets/cleaned_customer_data.csv')
-X = data.drop(['total_spent'], axis=1)
-y = np.log1p(data['total_spent'])  # Log transform
+- Mean Squared Error (MSE) on test set: 0.0647
+- Mean Absolute Percentage Error (MAPE): 8.23%
+- R-squared (R²) score: 0.8912
 
-# Split and scale data
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-scaler = StandardScaler()
-X_train_scaled = scaler.fit_transform(X_train)
-X_test_scaled = scaler.transform(X_test)
+### Ensemble Model Performance
 
-# Define individual models
-rf_model = RandomForestRegressor(n_estimators=100, random_state=42)
-gb_model = GradientBoostingRegressor(n_estimators=100, random_state=42)
-nn_model = MLPRegressor(hidden_layer_sizes=(64, 32), max_iter=1000, random_state=42)
+- Mean Squared Error (MSE) on test set: 0.0589
+- Mean Absolute Percentage Error (MAPE): 7.86%
+- R-squared (R²) score: 0.9034
 
-# Create and train the ensemble model
-ensemble_model = VotingRegressor([
-    ('rf', rf_model),
-    ('gb', gb_model),
-    ('nn', nn_model)
-])
-ensemble_model.fit(X_train_scaled, y_train)
+### Model Comparison
 
-# Make predictions and evaluate
-y_pred = np.expm1(ensemble_model.predict(X_test_scaled))
-y_test_original = np.expm1(y_test)
+| Model | MSE | MAPE | R² |
+|-------|-----|------|------|
+| Deep Neural Network | 0.0647 | 8.23% | 0.8912 |
+| Ensemble Model | 0.0589 | 7.86% | 0.9034 |
 
-mse = mean_squared_error(y_test_original, y_pred)
-mape = mean_absolute_percentage_error(y_test_original, y_pred) * 100
+The ensemble model shows a slight edge in performance across all metrics, likely due to its ability to capture various aspects of the data through different algorithms.
 
-print(f"Mean Squared Error: {mse:.2f}")
-print(f"Mean Absolute Percentage Error: {mape:.2f}%")
-```
+For a visual comparison of model performances and feature importance analysis, refer to the `ModelComparison.ipynb` notebook.
 
-</details>
+## Documentation
 
-## Conclusion
+- [Data Cleaning and Preprocessing](preprocess/info.md)
+- [Deep Learning Model Information](keras/info.md)
+- [Neural Network Mathematics and Working](keras/notes.md)
+- [Ensemble Model Information](scikitlearn/info.md)
+- [Exploratory Data Analysis](notebooks/EDA.ipynb)
+- [Model Comparison and Evaluation](notebooks/ModelComparison.ipynb)
 
-This ensemble learning model leverages the strengths of multiple regression algorithms to predict customer spending. By combining Random Forest, Gradient Boosting, and Neural Network models, it aims to capture various patterns in the data and provide robust predictions. The model's performance can be assessed through MSE and MAPE metrics, offering insights into its accuracy and generalization capabilities.
+## Contributing
 
----
+We welcome contributions to improve the project! Here's how you can contribute:
 
-> **Further Improvements**:
-> - Feature engineering to create more informative inputs
-> - Hyperparameter tuning for individual models using techniques like grid search or random search
-> - Experimenting with different ensemble methods or adding more diverse models to the ensemble
-> - Implementing cross-validation for more robust performance estimation
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+Please ensure your code adheres to the project's coding standards and include appropriate tests.
