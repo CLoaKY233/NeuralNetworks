@@ -74,8 +74,8 @@ For more information, refer to [Ensemble Model Details](scikitlearn/info.md).
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/customer-spending-prediction.git
-   cd customer-spending-prediction
+   git clone https://github.com/cloaky233/NeuralNetworks.git
+   cd NeuralNetworks
    ```
 
 2. Install required packages:
